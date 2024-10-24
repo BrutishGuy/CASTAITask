@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/073fd90e74d24a9da18da79f2c76a7df/artifacts
+end_time: 1729762553831
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: 073fd90e74d24a9da18da79f2c76a7df
+run_name: rare-horse-43
+run_uuid: 073fd90e74d24a9da18da79f2c76a7df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729762513205
+status: 3
+tags: []
+user_id: vctrg

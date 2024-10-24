@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/18691ff246684fff9e20ff840533fbe3/artifacts
+end_time: 1729761946077
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: 18691ff246684fff9e20ff840533fbe3
+run_name: lyrical-cow-696
+run_uuid: 18691ff246684fff9e20ff840533fbe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729761909298
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/37f6b2cff4c74a1e8cd00cf882d01091/artifacts
+end_time: 1729761839115
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: 37f6b2cff4c74a1e8cd00cf882d01091
+run_name: angry-bird-846
+run_uuid: 37f6b2cff4c74a1e8cd00cf882d01091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729761792964
+status: 3
+tags: []
+user_id: vctrg

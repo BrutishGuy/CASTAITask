@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/81cf26d38f4649fa941c14f69a4995be/artifacts
+end_time: 1729761698332
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: 81cf26d38f4649fa941c14f69a4995be
+run_name: auspicious-sheep-440
+run_uuid: 81cf26d38f4649fa941c14f69a4995be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729761665915
+status: 3
+tags: []
+user_id: vctrg

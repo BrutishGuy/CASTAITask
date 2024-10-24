@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/c4eae1c026ab410eadb7bc7bf4cfec09/artifacts
+end_time: 1729761221355
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: c4eae1c026ab410eadb7bc7bf4cfec09
+run_name: enthused-wolf-485
+run_uuid: c4eae1c026ab410eadb7bc7bf4cfec09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729761202132
+status: 3
+tags: []
+user_id: vctrg

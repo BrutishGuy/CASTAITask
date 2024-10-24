@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/27059d5b702149519c4fca66a3651560/artifacts
+end_time: 1729730282327
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: 27059d5b702149519c4fca66a3651560
+run_name: illustrious-kite-352
+run_uuid: 27059d5b702149519c4fca66a3651560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729729966149
+status: 3
+tags: []
+user_id: vctrg

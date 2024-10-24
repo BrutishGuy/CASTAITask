@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/da5fa4e350324862bbf735d593ab3cbc/artifacts
+end_time: 1729761485465
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: da5fa4e350324862bbf735d593ab3cbc
+run_name: colorful-penguin-820
+run_uuid: da5fa4e350324862bbf735d593ab3cbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729761468165
+status: 3
+tags: []
+user_id: vctrg

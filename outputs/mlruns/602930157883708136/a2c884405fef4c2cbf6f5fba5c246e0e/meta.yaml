@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/a2c884405fef4c2cbf6f5fba5c246e0e/artifacts
+end_time: 1729728487948
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: a2c884405fef4c2cbf6f5fba5c246e0e
+run_name: thoughtful-finch-363
+run_uuid: a2c884405fef4c2cbf6f5fba5c246e0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729728292977
+status: 3
+tags: []
+user_id: vctrg

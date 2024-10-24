@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/31193273064d4ddeb17ad05b17c783fd/artifacts
+end_time: 1729727441953
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: 31193273064d4ddeb17ad05b17c783fd
+run_name: sassy-wren-368
+run_uuid: 31193273064d4ddeb17ad05b17c783fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729727424040
+status: 3
+tags: []
+user_id: vctrg

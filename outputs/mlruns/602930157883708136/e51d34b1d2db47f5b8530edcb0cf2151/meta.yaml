@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/e51d34b1d2db47f5b8530edcb0cf2151/artifacts
+end_time: 1729761140715
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: e51d34b1d2db47f5b8530edcb0cf2151
+run_name: orderly-lark-574
+run_uuid: e51d34b1d2db47f5b8530edcb0cf2151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729761114362
+status: 3
+tags: []
+user_id: vctrg
