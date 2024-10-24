@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/f91c1d00eee14152983db911081912bc/artifacts
+end_time: 1729728579024
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: f91c1d00eee14152983db911081912bc
+run_name: debonair-duck-616
+run_uuid: f91c1d00eee14152983db911081912bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729728487992
+status: 3
+tags: []
+user_id: vctrg

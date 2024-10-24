@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/ef1dc0df91f54cc8981ad916d841a2aa/artifacts
+end_time: 1729757963419
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: ef1dc0df91f54cc8981ad916d841a2aa
+run_name: adaptable-shark-430
+run_uuid: ef1dc0df91f54cc8981ad916d841a2aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729757767388
+status: 3
+tags: []
+user_id: vctrg

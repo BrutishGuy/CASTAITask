@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/a1a9dccc10d64c368315ea1d40fef358/artifacts
+end_time: 1729727219216
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: a1a9dccc10d64c368315ea1d40fef358
+run_name: agreeable-sponge-546
+run_uuid: a1a9dccc10d64c368315ea1d40fef358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729727200737
+status: 3
+tags: []
+user_id: vctrg

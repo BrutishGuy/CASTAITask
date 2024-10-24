@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/cda8b7ac6558442380eb8189de72520f/artifacts
+end_time: 1729761909248
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: cda8b7ac6558442380eb8189de72520f
+run_name: adaptable-bear-798
+run_uuid: cda8b7ac6558442380eb8189de72520f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729761877002
+status: 3
+tags: []
+user_id: vctrg

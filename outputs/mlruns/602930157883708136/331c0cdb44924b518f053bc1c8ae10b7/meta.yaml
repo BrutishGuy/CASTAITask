@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/331c0cdb44924b518f053bc1c8ae10b7/artifacts
+end_time: 1729726896277
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: 331c0cdb44924b518f053bc1c8ae10b7
+run_name: nimble-bat-710
+run_uuid: 331c0cdb44924b518f053bc1c8ae10b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729726878904
+status: 3
+tags: []
+user_id: vctrg

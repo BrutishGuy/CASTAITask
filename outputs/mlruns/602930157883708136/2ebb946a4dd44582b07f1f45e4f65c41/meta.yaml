@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/2ebb946a4dd44582b07f1f45e4f65c41/artifacts
+end_time: 1729727671892
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: 2ebb946a4dd44582b07f1f45e4f65c41
+run_name: angry-gull-121
+run_uuid: 2ebb946a4dd44582b07f1f45e4f65c41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729727645816
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/ce65cd4a03e646a6a673859fb3b068c3/artifacts
+end_time: 1729727336580
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: ce65cd4a03e646a6a673859fb3b068c3
+run_name: enthused-steed-804
+run_uuid: ce65cd4a03e646a6a673859fb3b068c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729727319524
+status: 3
+tags: []
+user_id: vctrg

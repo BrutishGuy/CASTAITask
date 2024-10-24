@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/5be62e60abdf4740a8c05368944c7ae3/artifacts
+end_time: 1729759980904
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: 5be62e60abdf4740a8c05368944c7ae3
+run_name: colorful-owl-500
+run_uuid: 5be62e60abdf4740a8c05368944c7ae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729759792640
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/ecc80b40675e4d02946e0c46529d0857/artifacts
+end_time: 1729761265490
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: ecc80b40675e4d02946e0c46529d0857
+run_name: nosy-slug-486
+run_uuid: ecc80b40675e4d02946e0c46529d0857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729761252699
+status: 3
+tags: []
+user_id: vctrg

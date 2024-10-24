@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/e0e01d4e20464630a3112584bfe31841/artifacts
+end_time: 1729727618146
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: e0e01d4e20464630a3112584bfe31841
+run_name: bouncy-shark-572
+run_uuid: e0e01d4e20464630a3112584bfe31841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729727593800
+status: 3
+tags: []
+user_id: vctrg

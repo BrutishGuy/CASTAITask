@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/8aab78813454453db4cafc83f54175f0/artifacts
+end_time: 1729727353881
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: 8aab78813454453db4cafc83f54175f0
+run_name: likeable-skink-133
+run_uuid: 8aab78813454453db4cafc83f54175f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729727336618
+status: 3
+tags: []
+user_id: vctrg

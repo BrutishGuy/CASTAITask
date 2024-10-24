@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136/060f69e4406c4ca0979dc3573059c370/artifacts
+end_time: 1729761551965
+entry_point_name: ''
+experiment_id: '602930157883708136'
+lifecycle_stage: active
+run_id: 060f69e4406c4ca0979dc3573059c370
+run_name: upset-moose-175
+run_uuid: 060f69e4406c4ca0979dc3573059c370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729761485521
+status: 3
+tags: []
+user_id: vctrg

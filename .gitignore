@@ -1,0 +1,11 @@
+# ignore all pycache folder and subfolder contents
+__pycache__/
+**/__pycache__/
+
+# ignore created virtual environments
+.venv/
+
+# ignore commonly used data files
+**/*.parquet
+**/*.csv
+**/*.tsv
