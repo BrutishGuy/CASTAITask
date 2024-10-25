@@ -9,7 +9,6 @@ class ClassRebalancer(TransformerMixin, BaseEstimator):
     """
     A transformer mixin for handling class imbalance using oversampling or undersampling.
 
-    
     """
     
     def __init__(self, method: str = 'undersample'):
