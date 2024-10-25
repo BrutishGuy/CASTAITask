@@ -1,0 +1,44 @@
+[build-system]
+# Defines build requirements and backend
+requires = ["setuptools>=42", "wheel", "pip-tools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "CASTAITask"
+version = "0.1.0"
+description = "A machine learning project"
+authors = [
+    { name = "Victor Gueorguiev", email = "vctr.grgv2@example.com" }
+]
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "torch",
+    "mlflow",
+    "hyperopt",
+    "pip-tools",
+    "tqdm",
+    "matplotlib",
+    "ipykernel",
+    "seaborn",
+    "imbalanced-learn",
+    "xgboost",
+    "statsmodels",
+    "scipy"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pip-tools",
+    "pip-chill",
+    "pipdeptree"
+]
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "-ra -q"
+testpaths = [
+    "tests"
+]
