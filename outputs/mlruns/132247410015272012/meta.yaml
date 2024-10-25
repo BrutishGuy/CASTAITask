@@ -1,0 +1,6 @@
+artifact_location: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012
+creation_time: 1729816825007
+experiment_id: '132247410015272012'
+last_update_time: 1729816825007
+lifecycle_stage: active
+name: random_forest_hp_opt_use_transforms_use_pca_all_features

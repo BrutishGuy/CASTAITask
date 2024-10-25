@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/5e1aee90d73744469532f6e1f5f2cfe0/artifacts
+end_time: 1729849843501
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 5e1aee90d73744469532f6e1f5f2cfe0
+run_name: casual-zebra-219
+run_uuid: 5e1aee90d73744469532f6e1f5f2cfe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729849807727
+status: 3
+tags: []
+user_id: vctrg

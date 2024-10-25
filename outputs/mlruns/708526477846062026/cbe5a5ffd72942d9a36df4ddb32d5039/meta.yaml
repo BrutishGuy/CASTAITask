@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/cbe5a5ffd72942d9a36df4ddb32d5039/artifacts
+end_time: 1729847905270
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: cbe5a5ffd72942d9a36df4ddb32d5039
+run_name: blushing-flea-615
+run_uuid: cbe5a5ffd72942d9a36df4ddb32d5039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847897211
+status: 3
+tags: []
+user_id: vctrg

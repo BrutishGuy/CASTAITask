@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/342ed1426f674160a546f9bc7afccf90/artifacts
+end_time: 1729849728524
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 342ed1426f674160a546f9bc7afccf90
+run_name: bittersweet-mole-837
+run_uuid: 342ed1426f674160a546f9bc7afccf90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729849699245
+status: 3
+tags: []
+user_id: vctrg

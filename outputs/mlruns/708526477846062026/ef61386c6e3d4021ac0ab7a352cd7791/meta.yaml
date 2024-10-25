@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/ef61386c6e3d4021ac0ab7a352cd7791/artifacts
+end_time: 1729847585163
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: ef61386c6e3d4021ac0ab7a352cd7791
+run_name: awesome-kit-583
+run_uuid: ef61386c6e3d4021ac0ab7a352cd7791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847582873
+status: 3
+tags: []
+user_id: vctrg

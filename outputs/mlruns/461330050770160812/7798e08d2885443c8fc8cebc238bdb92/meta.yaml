@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/7798e08d2885443c8fc8cebc238bdb92/artifacts
+end_time: 1729819681652
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: 7798e08d2885443c8fc8cebc238bdb92
+run_name: skittish-crab-583
+run_uuid: 7798e08d2885443c8fc8cebc238bdb92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819655760
+status: 3
+tags: []
+user_id: vctrg

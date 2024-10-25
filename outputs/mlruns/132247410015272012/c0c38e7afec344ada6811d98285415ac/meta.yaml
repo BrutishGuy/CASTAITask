@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/c0c38e7afec344ada6811d98285415ac/artifacts
+end_time: 1729819125177
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: c0c38e7afec344ada6811d98285415ac
+run_name: thoughtful-gnu-625
+run_uuid: c0c38e7afec344ada6811d98285415ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819071973
+status: 3
+tags: []
+user_id: vctrg

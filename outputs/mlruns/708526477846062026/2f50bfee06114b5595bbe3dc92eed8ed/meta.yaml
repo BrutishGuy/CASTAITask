@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/2f50bfee06114b5595bbe3dc92eed8ed/artifacts
+end_time: 1729847129464
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 2f50bfee06114b5595bbe3dc92eed8ed
+run_name: inquisitive-koi-935
+run_uuid: 2f50bfee06114b5595bbe3dc92eed8ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847127073
+status: 3
+tags: []
+user_id: vctrg

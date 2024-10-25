@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/719b220a47aa40729e4b8c08d78f1b4d/artifacts
+end_time: 1729846540361
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 719b220a47aa40729e4b8c08d78f1b4d
+run_name: enthused-bat-164
+run_uuid: 719b220a47aa40729e4b8c08d78f1b4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846537504
+status: 3
+tags: []
+user_id: vctrg

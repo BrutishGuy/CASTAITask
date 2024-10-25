@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/bcafc6795d544957bffb6723119aab83/artifacts
+end_time: 1729844687867
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: bcafc6795d544957bffb6723119aab83
+run_name: upset-whale-866
+run_uuid: bcafc6795d544957bffb6723119aab83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729844687642
+status: 4
+tags: []
+user_id: vctrg

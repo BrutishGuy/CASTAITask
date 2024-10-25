@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/620e17089ff84696a20a535a350e4063/artifacts
+end_time: 1729850517749
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 620e17089ff84696a20a535a350e4063
+run_name: handsome-auk-430
+run_uuid: 620e17089ff84696a20a535a350e4063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729850446851
+status: 3
+tags: []
+user_id: vctrg

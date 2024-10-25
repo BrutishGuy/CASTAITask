@@ -145,7 +145,7 @@ class EDA:
         """
         # select only numerical features, including the newly created binary label
         numerical_data = self.df.select_dtypes(include=['float64', 'float32', 'int64']).copy()
-        # binarize the target variable ('label') in the original dataframe
+        # binarize the target variable ('label')
         numerical_data['label'] = self.df['label'].map({'Interrupted': 1, 'Continue': 0})
 
         # extract the target variable
@@ -156,7 +156,7 @@ class EDA:
         corr_pearson = features.apply(lambda x: x.corr(target, method='pearson')).sort_values(ascending=False)
         corr_spearman = features.apply(lambda x: x.corr(target, method='spearman')).sort_values(ascending=False)
 
-        # plotting the results
+        # plotting
         fig, ax = plt.subplots(1, 2, figsize=corr_figsize)
         
         ax[0].set_title('Pearson method')
@@ -165,6 +165,7 @@ class EDA:
         ax[1].set_title('Spearman method')
         sns.heatmap(corr_spearman.to_frame(), ax=ax[1], annot=annot)
         
+        # too slow! get rid of this
         #ax[2].set_title('Kendall method')
         #sns.heatmap(corr_kendall.to_frame(), ax=ax[2], annot=annot)
 

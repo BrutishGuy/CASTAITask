@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/a19147f962b244c2acacfa19d9eb3cf9/artifacts
+end_time: 1729819729719
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: a19147f962b244c2acacfa19d9eb3cf9
+run_name: spiffy-gnu-525
+run_uuid: a19147f962b244c2acacfa19d9eb3cf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819724130
+status: 3
+tags: []
+user_id: vctrg

@@ -13,6 +13,8 @@ class ModelOptimiser:
                  experiment_name,
                  experiment_description,
                  experiment_tags,
+                 X_val = None,
+                 y_val = None,
                  scoring={"roc_auc": "roc_auc", "precision": "precision", "recall": "recall", "f1": "f1"}, 
                  cv=3, 
                  max_evals=50):
@@ -53,6 +55,8 @@ class ModelOptimiser:
         self.experiment_description = experiment_description
         self.experiment_tags = experiment_tags
         self.experiment_name = experiment_name 
+        self.X_val = X_val 
+        self.y_val = y_val
         # create the cxperiment, providing a unique name, if it doesn't exist already
 
         try:
@@ -79,17 +83,21 @@ class ModelOptimiser:
         dict : loss and status of the optimization.
         """
         with mlflow.start_run(nested=True):
-            # Construct the model with the current set of hyperparameters
+            # construct the model with hyperparams
             model = self.model_constructor(params)
-            # Evaluate the model using cross-validation
-            scores = cross_validate(model, self.X_train, self.y_train, cv=self.cv, scoring=self.scoring)
+            # evaluate it using CV with self.cv folds and self.scoring metrics
+
+            if self.X_val is not None and self.y_val is not None:
+                scores = cross_validate(model, self.X_train, self.y_train, cv=self.cv, scoring=self.scoring, params={"X_val": self.X_val, "y_val": self.y_val}, error_score="raise")
+            else:
+                scores = cross_validate(model, self.X_train, self.y_train, cv=self.cv, scoring=self.scoring, error_score="raise")
                     
             metrics = {"ROCAUC": scores["test_roc_auc"].mean(), 
                        "Precision": scores["test_precision"].mean(), 
                        "Recall": scores["test_recall"].mean(),
                        "F1": scores["test_f1"].mean()}
 
-            # Log the parameters and score in MLflow
+            # log params and metrics in MLflow
             mlflow.log_params(params)
             mlflow.log_metrics(metrics)
 

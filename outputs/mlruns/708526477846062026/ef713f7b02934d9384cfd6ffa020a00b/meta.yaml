@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/ef713f7b02934d9384cfd6ffa020a00b/artifacts
+end_time: 1729847655232
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: ef713f7b02934d9384cfd6ffa020a00b
+run_name: carefree-cow-912
+run_uuid: ef713f7b02934d9384cfd6ffa020a00b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847650617
+status: 3
+tags: []
+user_id: vctrg

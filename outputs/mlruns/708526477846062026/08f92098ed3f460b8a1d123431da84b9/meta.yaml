@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/08f92098ed3f460b8a1d123431da84b9/artifacts
+end_time: 1729846789574
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 08f92098ed3f460b8a1d123431da84b9
+run_name: exultant-crab-664
+run_uuid: 08f92098ed3f460b8a1d123431da84b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846787215
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/abf2932144194562a54277543041283c/artifacts
+end_time: 1729847711325
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: abf2932144194562a54277543041283c
+run_name: rare-owl-52
+run_uuid: abf2932144194562a54277543041283c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847705800
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/6012bbad3bf149ef996b80cecb4d141b/artifacts
+end_time: 1729819203788
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: 6012bbad3bf149ef996b80cecb4d141b
+run_name: placid-squid-27
+run_uuid: 6012bbad3bf149ef996b80cecb4d141b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819125191
+status: 3
+tags: []
+user_id: vctrg

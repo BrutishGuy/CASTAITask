@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/fbc1114a375d4c5699ce496c3f30df75/artifacts
+end_time: 1729817240893
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: fbc1114a375d4c5699ce496c3f30df75
+run_name: resilient-ape-850
+run_uuid: fbc1114a375d4c5699ce496c3f30df75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729817216442
+status: 3
+tags: []
+user_id: vctrg

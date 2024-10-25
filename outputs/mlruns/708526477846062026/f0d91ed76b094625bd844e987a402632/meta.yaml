@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/f0d91ed76b094625bd844e987a402632/artifacts
+end_time: 1729846697549
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: f0d91ed76b094625bd844e987a402632
+run_name: languid-doe-772
+run_uuid: f0d91ed76b094625bd844e987a402632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846695256
+status: 3
+tags: []
+user_id: vctrg

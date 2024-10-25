@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/dadd33b189fe4bcb842ff37081403778/artifacts
+end_time: 1729847575987
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: dadd33b189fe4bcb842ff37081403778
+run_name: amusing-crane-867
+run_uuid: dadd33b189fe4bcb842ff37081403778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847573910
+status: 3
+tags: []
+user_id: vctrg

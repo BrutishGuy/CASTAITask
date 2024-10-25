@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/4fdcab3d1d4c42eb8a7419fa47ede680/artifacts
+end_time: 1729846542942
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 4fdcab3d1d4c42eb8a7419fa47ede680
+run_name: whimsical-fowl-117
+run_uuid: 4fdcab3d1d4c42eb8a7419fa47ede680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846540375
+status: 3
+tags: []
+user_id: vctrg

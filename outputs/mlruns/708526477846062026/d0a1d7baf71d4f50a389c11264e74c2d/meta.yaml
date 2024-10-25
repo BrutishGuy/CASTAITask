@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/d0a1d7baf71d4f50a389c11264e74c2d/artifacts
+end_time: 1729846532063
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: d0a1d7baf71d4f50a389c11264e74c2d
+run_name: polite-cow-547
+run_uuid: d0a1d7baf71d4f50a389c11264e74c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846529433
+status: 3
+tags: []
+user_id: vctrg

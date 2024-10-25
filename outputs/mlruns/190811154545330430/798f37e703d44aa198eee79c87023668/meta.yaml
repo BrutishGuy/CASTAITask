@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/190811154545330430/798f37e703d44aa198eee79c87023668/artifacts
+end_time: 1729814770644
+entry_point_name: ''
+experiment_id: '190811154545330430'
+lifecycle_stage: active
+run_id: 798f37e703d44aa198eee79c87023668
+run_name: exultant-mule-937
+run_uuid: 798f37e703d44aa198eee79c87023668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729814760804
+status: 4
+tags: []
+user_id: vctrg

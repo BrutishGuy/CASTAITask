@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/33bc609e3824436a86849d6148694489/artifacts
+end_time: 1729819422979
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: 33bc609e3824436a86849d6148694489
+run_name: glamorous-mink-980
+run_uuid: 33bc609e3824436a86849d6148694489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819349548
+status: 3
+tags: []
+user_id: vctrg

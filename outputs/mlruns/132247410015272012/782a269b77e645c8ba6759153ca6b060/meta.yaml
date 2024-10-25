@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/782a269b77e645c8ba6759153ca6b060/artifacts
+end_time: 1729817191853
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: 782a269b77e645c8ba6759153ca6b060
+run_name: adorable-snail-157
+run_uuid: 782a269b77e645c8ba6759153ca6b060
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729817167699
+status: 3
+tags: []
+user_id: vctrg

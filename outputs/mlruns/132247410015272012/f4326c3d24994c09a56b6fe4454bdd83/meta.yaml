@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/f4326c3d24994c09a56b6fe4454bdd83/artifacts
+end_time: 1729819025903
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: f4326c3d24994c09a56b6fe4454bdd83
+run_name: shivering-goat-179
+run_uuid: f4326c3d24994c09a56b6fe4454bdd83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819010172
+status: 3
+tags: []
+user_id: vctrg

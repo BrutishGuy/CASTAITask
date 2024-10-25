@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/cf801e9c56324d23880cf6d6d5cf4078/artifacts
+end_time: 1729846734917
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: cf801e9c56324d23880cf6d6d5cf4078
+run_name: capable-pig-973
+run_uuid: cf801e9c56324d23880cf6d6d5cf4078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846732536
+status: 3
+tags: []
+user_id: vctrg

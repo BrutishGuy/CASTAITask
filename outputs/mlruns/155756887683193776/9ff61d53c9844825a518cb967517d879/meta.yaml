@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/155756887683193776/9ff61d53c9844825a518cb967517d879/artifacts
+end_time: 1729815862840
+entry_point_name: ''
+experiment_id: '155756887683193776'
+lifecycle_stage: active
+run_id: 9ff61d53c9844825a518cb967517d879
+run_name: receptive-moth-327
+run_uuid: 9ff61d53c9844825a518cb967517d879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729815855384
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/a17dc1b8442e41b290f93b151c67e74c/artifacts
+end_time: 1729846688506
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: a17dc1b8442e41b290f93b151c67e74c
+run_name: bouncy-skink-837
+run_uuid: a17dc1b8442e41b290f93b151c67e74c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846686159
+status: 3
+tags: []
+user_id: vctrg

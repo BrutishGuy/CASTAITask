@@ -1,0 +1,6 @@
+artifact_location: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812
+creation_time: 1729819582805
+experiment_id: '461330050770160812'
+last_update_time: 1729819582805
+lifecycle_stage: active
+name: xgboost_hp_opt_use_transforms_use_pca_all_features

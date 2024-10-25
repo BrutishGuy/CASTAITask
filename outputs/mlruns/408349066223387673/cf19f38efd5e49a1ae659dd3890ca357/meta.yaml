@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/cf19f38efd5e49a1ae659dd3890ca357/artifacts
+end_time: 1729850915283
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: cf19f38efd5e49a1ae659dd3890ca357
+run_name: melodic-snail-746
+run_uuid: cf19f38efd5e49a1ae659dd3890ca357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729850831399
+status: 3
+tags: []
+user_id: vctrg

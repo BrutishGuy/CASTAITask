@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/c4462de5f7f649c2b10fe1d382627e67/artifacts
+end_time: 1729847578299
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: c4462de5f7f649c2b10fe1d382627e67
+run_name: aged-boar-1000
+run_uuid: c4462de5f7f649c2b10fe1d382627e67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847576001
+status: 3
+tags: []
+user_id: vctrg

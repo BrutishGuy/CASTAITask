@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/775036a80e86420d92ae8371a4ac1c2f/artifacts
+end_time: 1729847817252
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 775036a80e86420d92ae8371a4ac1c2f
+run_name: luxuriant-crane-299
+run_uuid: 775036a80e86420d92ae8371a4ac1c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847811704
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/d1703f1004f841058b26e06e1d67cb5c/artifacts
+end_time: 1729847580499
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: d1703f1004f841058b26e06e1d67cb5c
+run_name: skittish-mink-110
+run_uuid: d1703f1004f841058b26e06e1d67cb5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847578316
+status: 3
+tags: []
+user_id: vctrg

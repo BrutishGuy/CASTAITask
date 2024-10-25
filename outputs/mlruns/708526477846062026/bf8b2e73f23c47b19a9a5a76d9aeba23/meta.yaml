@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/bf8b2e73f23c47b19a9a5a76d9aeba23/artifacts
+end_time: 1729846513723
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: bf8b2e73f23c47b19a9a5a76d9aeba23
+run_name: burly-wasp-503
+run_uuid: bf8b2e73f23c47b19a9a5a76d9aeba23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846511365
+status: 3
+tags: []
+user_id: vctrg

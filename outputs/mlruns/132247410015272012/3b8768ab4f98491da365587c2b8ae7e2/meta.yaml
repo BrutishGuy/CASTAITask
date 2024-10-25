@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/3b8768ab4f98491da365587c2b8ae7e2/artifacts
+end_time: 1729817630207
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: 3b8768ab4f98491da365587c2b8ae7e2
+run_name: upbeat-rat-671
+run_uuid: 3b8768ab4f98491da365587c2b8ae7e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729817535318
+status: 3
+tags: []
+user_id: vctrg

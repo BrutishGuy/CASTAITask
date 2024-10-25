@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/773d672c4dba47bf8dcb978378e24efb/artifacts
+end_time: 1729819695399
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: 773d672c4dba47bf8dcb978378e24efb
+run_name: learned-pug-811
+run_uuid: 773d672c4dba47bf8dcb978378e24efb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819693497
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/9c73c49acabd43c8b63143d4ee2631e2/artifacts
+end_time: 1729847849629
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 9c73c49acabd43c8b63143d4ee2631e2
+run_name: rambunctious-fox-603
+run_uuid: 9c73c49acabd43c8b63143d4ee2631e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847844230
+status: 3
+tags: []
+user_id: vctrg

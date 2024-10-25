@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/a4c576e7c9334a259882035e2d368fa1/artifacts
+end_time: 1729818850349
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: a4c576e7c9334a259882035e2d368fa1
+run_name: glamorous-ox-663
+run_uuid: a4c576e7c9334a259882035e2d368fa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729818773414
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/bcb23f57e8e54264b111f9b136bcd30d/artifacts
+end_time: 1729817503757
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: bcb23f57e8e54264b111f9b136bcd30d
+run_name: fun-colt-140
+run_uuid: bcb23f57e8e54264b111f9b136bcd30d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729817474159
+status: 3
+tags: []
+user_id: vctrg

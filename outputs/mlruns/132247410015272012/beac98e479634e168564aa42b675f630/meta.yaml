@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/beac98e479634e168564aa42b675f630/artifacts
+end_time: 1729817535307
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: beac98e479634e168564aa42b675f630
+run_name: charming-sow-94
+run_uuid: beac98e479634e168564aa42b675f630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729817503767
+status: 3
+tags: []
+user_id: vctrg

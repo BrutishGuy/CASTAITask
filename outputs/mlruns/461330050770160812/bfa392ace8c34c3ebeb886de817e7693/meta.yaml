@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/bfa392ace8c34c3ebeb886de817e7693/artifacts
+end_time: 1729819794906
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: bfa392ace8c34c3ebeb886de817e7693
+run_name: smiling-squid-791
+run_uuid: bfa392ace8c34c3ebeb886de817e7693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819778684
+status: 3
+tags: []
+user_id: vctrg

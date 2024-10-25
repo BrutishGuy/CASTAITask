@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/580086c7ddca44d3a2f09f80311bab4e/artifacts
+end_time: 1729843512102
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 580086c7ddca44d3a2f09f80311bab4e
+run_name: valuable-moth-715
+run_uuid: 580086c7ddca44d3a2f09f80311bab4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729843497292
+status: 4
+tags: []
+user_id: vctrg

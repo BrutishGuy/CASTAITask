@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/4c5eac9f719a49c8bd89cb33b113bbc1/artifacts
+end_time: 1729846485467
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 4c5eac9f719a49c8bd89cb33b113bbc1
+run_name: handsome-shrimp-0
+run_uuid: 4c5eac9f719a49c8bd89cb33b113bbc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846483296
+status: 3
+tags: []
+user_id: vctrg

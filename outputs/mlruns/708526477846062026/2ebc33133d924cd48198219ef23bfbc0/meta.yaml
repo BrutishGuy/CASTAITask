@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/2ebc33133d924cd48198219ef23bfbc0/artifacts
+end_time: 1729847739262
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 2ebc33133d924cd48198219ef23bfbc0
+run_name: redolent-wolf-913
+run_uuid: 2ebc33133d924cd48198219ef23bfbc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847733640
+status: 3
+tags: []
+user_id: vctrg

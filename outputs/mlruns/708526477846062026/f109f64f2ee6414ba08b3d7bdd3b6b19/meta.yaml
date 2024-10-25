@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/f109f64f2ee6414ba08b3d7bdd3b6b19/artifacts
+end_time: 1729846547804
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: f109f64f2ee6414ba08b3d7bdd3b6b19
+run_name: upset-bug-479
+run_uuid: f109f64f2ee6414ba08b3d7bdd3b6b19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846545413
+status: 3
+tags: []
+user_id: vctrg

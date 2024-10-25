@@ -1,8 +1,8 @@
 # CAST AI Take-Home Task
 
-## Project Overview
+## Introduction
 
-This project aims to analyze the sentiment of Twitter comments. We utilize both classical NLP and ML approaches, such as TF-IDF and Word2Vec for feature extraction, logistic regression and random forests for modelling, and advanced language models, such as BERT, to classify the sentiment of comments as positive, negative, neutral, or irrelevant.
+In this task we are presented with an anonymised dataset containing over 300 columns of data, with hundreds of thousands of data points. We are tasked with creating a classification model towards the label/target presented in the data. Given that the data is anonymised, and that we have restricted access to domain expertise for the data/business processes which created this dataset, we will be taking a more mechanical approach to this assignment, acknowledging that more in-depth data cleaning, and specialised feature engineering can be achieved on real data, with access to domain experts who can assist in decoding and interpreting data, its values, its irregularities, and so on.
 
 ## Folder Structure
 
@@ -15,6 +15,8 @@ CastAITask/
 ├── outputs/ # Outputs from models and EDA 
 │ └── EDA/ # Additional helper plots for the .ipynb and README.md
 │ └── mlruns/ # Folder used for experiment results of the MLflow experiment tracking
+├── report/ # Source code for models and utilities
+│ └── REPORT.md # The final report with summary, to accompany experiments.ipynb 
 ├── src/ # Source code for models and utilities 
 │ ├── datautils/ # data utilities
 │ │ └── ClassRebalancer.py # utility to perform class re-balancing to address imbalance
@@ -28,6 +30,10 @@ CastAITask/
 │ └── experiments.ipynb # Recipe to run the experiments and to reproduce results
 ├── tests/ # Unit tests for the code
 ```
+
+## Report and Discussion
+
+To see what has been done in this project, and for a summary of the results, with discussion, please see the `src/experiments.ipynb` Jupyter notebook, along with the `report/REPORT.md` markdown file. The Jupyter notebook is intended to complement the report. See the installation instructions below for how to setup MLflow to view the results of the experiments, along with the artifacts.
 
 ## Installation
 
@@ -49,12 +55,28 @@ CastAITask/
     python3 -m venv venv
     source venv/bin/activate
     ```
+    Or, if you are on Windows,
+    ```bash
+    python3 -m venv venv
+    .venv\Scripts\activate
+    ```
 3. **Install Required Packages:**
     ```bash
     pip3 install -r requirements.txt
     ```
 4. **Download the Data**
     For this step, download the `data.parquet` file provided for the task, and store it in the `./data` folder, according to the folder structure described above.
+
+### MLflow Setup
+
+Installing via the `requirements.txt` file using pip, as mentioned above, should install the mlflow package for you already. If not, for some reason, then please install mlflow by running a simple `pip install mlflow` in your virtual env.
+
+Then, make sure that your virtual environment is activated. Once done, simply change directory to the `outputs/` directory, where the `mlruns/` sub-directory exists and where the MLflow experiments/runs are stored. Then, start MLflow. The commands, assuming you are in the root project directory are:
+
+```bash
+cd outputs/
+mlflow ui
+```
 
 ### How to Run the Analysis
 

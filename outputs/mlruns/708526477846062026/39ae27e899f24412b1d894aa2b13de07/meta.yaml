@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/39ae27e899f24412b1d894aa2b13de07/artifacts
+end_time: 1729846476488
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 39ae27e899f24412b1d894aa2b13de07
+run_name: serious-skink-117
+run_uuid: 39ae27e899f24412b1d894aa2b13de07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846474135
+status: 3
+tags: []
+user_id: vctrg

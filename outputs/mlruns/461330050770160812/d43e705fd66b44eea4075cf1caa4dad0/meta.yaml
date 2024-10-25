@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/d43e705fd66b44eea4075cf1caa4dad0/artifacts
+end_time: 1729819717770
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: d43e705fd66b44eea4075cf1caa4dad0
+run_name: thoughtful-snipe-354
+run_uuid: d43e705fd66b44eea4075cf1caa4dad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819714532
+status: 3
+tags: []
+user_id: vctrg

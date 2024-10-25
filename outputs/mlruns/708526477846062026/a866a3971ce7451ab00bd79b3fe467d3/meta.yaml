@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/a866a3971ce7451ab00bd79b3fe467d3/artifacts
+end_time: 1729843813673
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: a866a3971ce7451ab00bd79b3fe467d3
+run_name: wise-hawk-957
+run_uuid: a866a3971ce7451ab00bd79b3fe467d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729843813597
+status: 4
+tags: []
+user_id: vctrg

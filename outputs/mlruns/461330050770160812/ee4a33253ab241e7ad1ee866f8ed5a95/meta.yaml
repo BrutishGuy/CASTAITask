@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/ee4a33253ab241e7ad1ee866f8ed5a95/artifacts
+end_time: 1729819693484
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: ee4a33253ab241e7ad1ee866f8ed5a95
+run_name: crawling-wolf-508
+run_uuid: ee4a33253ab241e7ad1ee866f8ed5a95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819688337
+status: 3
+tags: []
+user_id: vctrg

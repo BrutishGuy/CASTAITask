@@ -1,6 +1,0 @@
-artifact_location: file:///c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/code/mlruns/602930157883708136
-creation_time: 1729726807748
-experiment_id: '602930157883708136'
-last_update_time: 1729726807748
-lifecycle_stage: active
-name: MLflow Hyperparameter Optimization Experiment

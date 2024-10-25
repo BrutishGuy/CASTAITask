@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/4b38cb1c284d42bdad1a2eda5b3ab7d2/artifacts
+end_time: 1729846469563
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 4b38cb1c284d42bdad1a2eda5b3ab7d2
+run_name: sneaky-grub-987
+run_uuid: 4b38cb1c284d42bdad1a2eda5b3ab7d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846467468
+status: 3
+tags: []
+user_id: vctrg

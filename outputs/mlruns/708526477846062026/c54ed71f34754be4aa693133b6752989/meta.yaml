@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/c54ed71f34754be4aa693133b6752989/artifacts
+end_time: 1729843868549
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: c54ed71f34754be4aa693133b6752989
+run_name: selective-sow-319
+run_uuid: c54ed71f34754be4aa693133b6752989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729843868436
+status: 4
+tags: []
+user_id: vctrg

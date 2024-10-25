@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/d59e78de90df41ac9e84ed868fb65390/artifacts
+end_time: 1729846471782
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: d59e78de90df41ac9e84ed868fb65390
+run_name: adorable-crane-550
+run_uuid: d59e78de90df41ac9e84ed868fb65390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846469576
+status: 3
+tags: []
+user_id: vctrg

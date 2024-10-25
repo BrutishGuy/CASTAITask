@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/9f223b459cef4b43b991b596409df877/artifacts
+end_time: 1729846706358
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 9f223b459cef4b43b991b596409df877
+run_name: blushing-colt-194
+run_uuid: 9f223b459cef4b43b991b596409df877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846704157
+status: 3
+tags: []
+user_id: vctrg

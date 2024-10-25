@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/155756887683193776/b136a116c11c475c9952f8a54b3a2c8f/artifacts
+end_time: 1729816157044
+entry_point_name: ''
+experiment_id: '155756887683193776'
+lifecycle_stage: active
+run_id: b136a116c11c475c9952f8a54b3a2c8f
+run_name: trusting-shrew-636
+run_uuid: b136a116c11c475c9952f8a54b3a2c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729816149325
+status: 3
+tags: []
+user_id: vctrg

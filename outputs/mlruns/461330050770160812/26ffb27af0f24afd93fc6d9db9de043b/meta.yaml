@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/26ffb27af0f24afd93fc6d9db9de043b/artifacts
+end_time: 1729819936192
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: 26ffb27af0f24afd93fc6d9db9de043b
+run_name: respected-foal-451
+run_uuid: 26ffb27af0f24afd93fc6d9db9de043b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819925633
+status: 3
+tags: []
+user_id: vctrg

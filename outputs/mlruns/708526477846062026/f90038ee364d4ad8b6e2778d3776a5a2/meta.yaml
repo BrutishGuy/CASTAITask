@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/f90038ee364d4ad8b6e2778d3776a5a2/artifacts
+end_time: 1729846776190
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: f90038ee364d4ad8b6e2778d3776a5a2
+run_name: grandiose-toad-480
+run_uuid: f90038ee364d4ad8b6e2778d3776a5a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846773890
+status: 3
+tags: []
+user_id: vctrg

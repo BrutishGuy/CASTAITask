@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/9306008490984552b30c8bc90fbd6993/artifacts
+end_time: 1729846725651
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 9306008490984552b30c8bc90fbd6993
+run_name: debonair-mouse-913
+run_uuid: 9306008490984552b30c8bc90fbd6993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846723551
+status: 3
+tags: []
+user_id: vctrg

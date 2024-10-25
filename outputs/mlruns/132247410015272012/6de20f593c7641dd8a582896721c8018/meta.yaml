@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/6de20f593c7641dd8a582896721c8018/artifacts
+end_time: 1729817914951
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: 6de20f593c7641dd8a582896721c8018
+run_name: polite-fowl-892
+run_uuid: 6de20f593c7641dd8a582896721c8018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729817819038
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/6d5b61dd35554ef3b33033f5c7483bc0/artifacts
+end_time: 1729819845890
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: 6d5b61dd35554ef3b33033f5c7483bc0
+run_name: stylish-squid-876
+run_uuid: 6d5b61dd35554ef3b33033f5c7483bc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819837755
+status: 3
+tags: []
+user_id: vctrg

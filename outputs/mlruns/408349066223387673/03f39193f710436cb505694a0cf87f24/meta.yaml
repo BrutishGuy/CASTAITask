@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/03f39193f710436cb505694a0cf87f24/artifacts
+end_time: 1729849453351
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 03f39193f710436cb505694a0cf87f24
+run_name: salty-calf-228
+run_uuid: 03f39193f710436cb505694a0cf87f24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729849398955
+status: 3
+tags: []
+user_id: vctrg

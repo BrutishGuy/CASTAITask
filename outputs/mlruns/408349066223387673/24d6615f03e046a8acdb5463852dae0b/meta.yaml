@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/24d6615f03e046a8acdb5463852dae0b/artifacts
+end_time: 1729850234394
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 24d6615f03e046a8acdb5463852dae0b
+run_name: enthused-koi-884
+run_uuid: 24d6615f03e046a8acdb5463852dae0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729850163879
+status: 3
+tags: []
+user_id: vctrg

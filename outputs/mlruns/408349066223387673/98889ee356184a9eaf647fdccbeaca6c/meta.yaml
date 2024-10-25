@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/98889ee356184a9eaf647fdccbeaca6c/artifacts
+end_time: 1729851763092
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 98889ee356184a9eaf647fdccbeaca6c
+run_name: bald-goose-811
+run_uuid: 98889ee356184a9eaf647fdccbeaca6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851733874
+status: 3
+tags: []
+user_id: vctrg

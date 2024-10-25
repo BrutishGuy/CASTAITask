@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/d478bcf68e5547108ad6cc0997619a02/artifacts
+end_time: 1729817081415
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: d478bcf68e5547108ad6cc0997619a02
+run_name: legendary-seal-147
+run_uuid: d478bcf68e5547108ad6cc0997619a02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729817044895
+status: 3
+tags: []
+user_id: vctrg

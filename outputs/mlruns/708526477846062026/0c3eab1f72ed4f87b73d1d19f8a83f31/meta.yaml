@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/0c3eab1f72ed4f87b73d1d19f8a83f31/artifacts
+end_time: 1729846762686
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 0c3eab1f72ed4f87b73d1d19f8a83f31
+run_name: whimsical-shrimp-266
+run_uuid: 0c3eab1f72ed4f87b73d1d19f8a83f31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846760374
+status: 3
+tags: []
+user_id: vctrg

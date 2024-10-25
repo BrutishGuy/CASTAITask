@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/5006625a2ed841f99c112a1841ed4754/artifacts
+end_time: 1729850715079
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 5006625a2ed841f99c112a1841ed4754
+run_name: sedate-penguin-21
+run_uuid: 5006625a2ed841f99c112a1841ed4754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729850644054
+status: 3
+tags: []
+user_id: vctrg

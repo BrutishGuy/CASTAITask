@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/79d84241f63947a6ad3182d85399b1da/artifacts
+end_time: 1729846508796
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 79d84241f63947a6ad3182d85399b1da
+run_name: rambunctious-bee-19
+run_uuid: 79d84241f63947a6ad3182d85399b1da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846506391
+status: 3
+tags: []
+user_id: vctrg

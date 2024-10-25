@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/3d8a1209d79c4c738e882ef043cc0f91/artifacts
+end_time: 1729820065011
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: 3d8a1209d79c4c738e882ef043cc0f91
+run_name: marvelous-mouse-265
+run_uuid: 3d8a1209d79c4c738e882ef043cc0f91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729820058944
+status: 3
+tags: []
+user_id: vctrg

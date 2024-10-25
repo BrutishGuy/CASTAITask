@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/155756887683193776/20ba150612f848b9b4e48c2d73f46de7/artifacts
+end_time: 1729815923275
+entry_point_name: ''
+experiment_id: '155756887683193776'
+lifecycle_stage: active
+run_id: 20ba150612f848b9b4e48c2d73f46de7
+run_name: bemused-foal-616
+run_uuid: 20ba150612f848b9b4e48c2d73f46de7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729815916136
+status: 3
+tags: []
+user_id: vctrg

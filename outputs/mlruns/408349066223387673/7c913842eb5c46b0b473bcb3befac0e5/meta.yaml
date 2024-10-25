@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/7c913842eb5c46b0b473bcb3befac0e5/artifacts
+end_time: 1729851391482
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 7c913842eb5c46b0b473bcb3befac0e5
+run_name: debonair-lark-603
+run_uuid: 7c913842eb5c46b0b473bcb3befac0e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851307545
+status: 3
+tags: []
+user_id: vctrg

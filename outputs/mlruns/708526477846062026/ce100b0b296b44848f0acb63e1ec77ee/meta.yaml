@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/ce100b0b296b44848f0acb63e1ec77ee/artifacts
+end_time: 1729847744580
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: ce100b0b296b44848f0acb63e1ec77ee
+run_name: resilient-wasp-635
+run_uuid: ce100b0b296b44848f0acb63e1ec77ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847739280
+status: 3
+tags: []
+user_id: vctrg

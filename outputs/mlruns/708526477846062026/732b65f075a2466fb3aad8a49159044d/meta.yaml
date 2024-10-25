@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/732b65f075a2466fb3aad8a49159044d/artifacts
+end_time: 1729846765010
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 732b65f075a2466fb3aad8a49159044d
+run_name: rebellious-jay-617
+run_uuid: 732b65f075a2466fb3aad8a49159044d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846762702
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/b02d8be7beb94bae995b96c9feb45d4f/artifacts
+end_time: 1729847897180
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: b02d8be7beb94bae995b96c9feb45d4f
+run_name: marvelous-cow-557
+run_uuid: b02d8be7beb94bae995b96c9feb45d4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847889569
+status: 3
+tags: []
+user_id: vctrg

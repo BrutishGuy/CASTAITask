@@ -100,7 +100,7 @@ class FeatureEngineer(TransformerMixin, BaseEstimator):
         """
         print(f"Fitting transform {transform} to {col}")
         if transform == 'log':
-            X[col] = np.log1p(X[col])  # Log(1 + x) to avoid log(0)
+            X[col] = np.log1p(X[col]) # np.log1p gives us log(1 + x), to avoid log(0) :O
         elif transform == 'quantile':
             qt = QuantileTransformer(output_distribution='normal', random_state=42)
             qt = qt.fit(X[[col]])
@@ -130,7 +130,7 @@ class FeatureEngineer(TransformerMixin, BaseEstimator):
             Dataframe with the transformed column.
         """
         if transform == 'log':
-            X[col] = np.log1p(X[col])  # Log(1 + x) to avoid log(0)
+            X[col] = np.log1p(X[col])  # np.log1p gives us log(1 + x), to avoid log(0) :O
         elif transform == 'quantile':
             qt = self.transformers[col]
             X[col] = qt.fit_transform(X[[col]])
@@ -155,23 +155,23 @@ class FeatureEngineer(TransformerMixin, BaseEstimator):
         self : FeatureEngineer
             The fitted transformer.
         """
-        # Convert to pandas if input is a numpy array
         X = X.copy()
 
+        # convert to pandas if input is a numpy array
         if isinstance(X, np.ndarray):
             X = pd.DataFrame(X)
 
-        # Extract time-based features
+        # extract time-based features
         X = self._extract_time_features(X)
         
-        # Handle missing values
+        # handle missing values
         numerical_cols = X.select_dtypes(include=['float64', 'float32', 'int64']).columns
         categorical_cols = X.select_dtypes(include=['object', 'category']).columns
 
         self.num_imputer = SimpleImputer(strategy=self.imputation_strategy)
         X[numerical_cols] = self.num_imputer.fit_transform(X[numerical_cols])
 
-        # Scale the data
+        # scale the data using standard scaling
         self.scaler = StandardScaler()
         self.scaler.fit(X[numerical_cols]) 
 
@@ -226,21 +226,21 @@ class FeatureEngineer(TransformerMixin, BaseEstimator):
         """
         X = X.copy()
 
-        # Convert to pandas if input is a numpy array
+        # convert to pandas if input is a numpy array
         if isinstance(X, np.ndarray):
             X = pd.DataFrame(X)
 
-        # Extract time-based features
+        # extract time-based features
         X = self._extract_time_features(X)
 
-        # Handle missing values
+        # handle missing values
         numerical_cols = X.select_dtypes(include=['float64', 'float32', 'int64']).columns
         X[numerical_cols] = self.num_imputer.transform(X[numerical_cols])
 
-        # Scale the data
+        # scale the data using standard scaling
         X[numerical_cols] = self.scaler.transform(X[numerical_cols])
 
-        # Apply transformations to numerical columns
+        # apply transformations to numerical columns
         if self.use_transform:
             for col in numerical_cols:
                 transform = self.transform_overrides.get(col, self.default_transform)
@@ -248,20 +248,21 @@ class FeatureEngineer(TransformerMixin, BaseEstimator):
 
         X = self.preprocessor.transform(X)
         X = pd.DataFrame(X)
+
         # numerical column indices are different after one-hot encoding
         numerical_cols = X.select_dtypes(include=['float64', 'float32', 'int64']).columns
 
         X[numerical_cols] = self.post_onehot_imputer.transform(X[numerical_cols])
 
-        # Apply PCA if selected
+        # apply PCA if selected
         if self.use_pca:
             X_pca = self.pca.transform(X[numerical_cols])
             X = pd.DataFrame(X_pca, columns=[f'PC{i+1}' for i in range(X_pca.shape[1])])
         else:
-            # Remove features with high multicollinearity
+            # remove features with high multicollinearity
             X = X.drop(columns=self.drop_features, errors='ignore')
 
-        # Optionally apply TSNE for dimensionality reduction visualization
+        # optionally apply TSNE for dimensionality reduction visualization
         if self.use_tsne:
             self.tsne = TSNE(n_components=2)
             X_tsne = self.tsne.fit_transform(X)

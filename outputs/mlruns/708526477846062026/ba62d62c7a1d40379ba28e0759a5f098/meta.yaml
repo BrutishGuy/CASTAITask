@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/ba62d62c7a1d40379ba28e0759a5f098/artifacts
+end_time: 1729844781933
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: ba62d62c7a1d40379ba28e0759a5f098
+run_name: unequaled-shark-595
+run_uuid: ba62d62c7a1d40379ba28e0759a5f098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729844781722
+status: 4
+tags: []
+user_id: vctrg

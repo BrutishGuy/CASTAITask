@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/0ab868671a2c410d8ac4c4bee672fcf4/artifacts
+end_time: 1729851033676
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 0ab868671a2c410d8ac4c4bee672fcf4
+run_name: trusting-eel-514
+run_uuid: 0ab868671a2c410d8ac4c4bee672fcf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729850962493
+status: 3
+tags: []
+user_id: vctrg
