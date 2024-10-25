@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/db18b6a073ed470d829861436a01e948/artifacts
+end_time: 1729846798954
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: db18b6a073ed470d829861436a01e948
+run_name: fearless-shrimp-385
+run_uuid: db18b6a073ed470d829861436a01e948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846796551
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/29db34ac0c4d4fce9f530df6614628f0/artifacts
+end_time: 1729847769282
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 29db34ac0c4d4fce9f530df6614628f0
+run_name: judicious-finch-879
+run_uuid: 29db34ac0c4d4fce9f530df6614628f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847763064
+status: 3
+tags: []
+user_id: vctrg

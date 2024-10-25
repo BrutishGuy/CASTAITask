@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/0f4bffb0334046c2870cc5c6a143c186/artifacts
+end_time: 1729819558643
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: 0f4bffb0334046c2870cc5c6a143c186
+run_name: worried-flea-492
+run_uuid: 0f4bffb0334046c2870cc5c6a143c186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819486116
+status: 3
+tags: []
+user_id: vctrg

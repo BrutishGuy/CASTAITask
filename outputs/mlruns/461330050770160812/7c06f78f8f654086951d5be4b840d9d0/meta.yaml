@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/7c06f78f8f654086951d5be4b840d9d0/artifacts
+end_time: 1729819964673
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: 7c06f78f8f654086951d5be4b840d9d0
+run_name: skittish-mule-201
+run_uuid: 7c06f78f8f654086951d5be4b840d9d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819947968
+status: 3
+tags: []
+user_id: vctrg

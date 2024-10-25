@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/dcbe26d6799b4dc9b904d56897eea341/artifacts
+end_time: 1729847833213
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: dcbe26d6799b4dc9b904d56897eea341
+run_name: righteous-carp-87
+run_uuid: dcbe26d6799b4dc9b904d56897eea341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847827883
+status: 3
+tags: []
+user_id: vctrg

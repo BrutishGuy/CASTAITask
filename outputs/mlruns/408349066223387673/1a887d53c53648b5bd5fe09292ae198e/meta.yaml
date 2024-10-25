@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/1a887d53c53648b5bd5fe09292ae198e/artifacts
+end_time: 1729851647645
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 1a887d53c53648b5bd5fe09292ae198e
+run_name: marvelous-ape-401
+run_uuid: 1a887d53c53648b5bd5fe09292ae198e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851563841
+status: 3
+tags: []
+user_id: vctrg

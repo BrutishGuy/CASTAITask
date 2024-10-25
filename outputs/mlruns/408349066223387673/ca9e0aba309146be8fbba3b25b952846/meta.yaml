@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/ca9e0aba309146be8fbba3b25b952846/artifacts
+end_time: 1729849569881
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: ca9e0aba309146be8fbba3b25b952846
+run_name: stylish-pug-686
+run_uuid: ca9e0aba309146be8fbba3b25b952846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729849515476
+status: 3
+tags: []
+user_id: vctrg

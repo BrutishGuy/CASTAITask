@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/9ec05181e43f46c4a308cc9d0ab98e06/artifacts
+end_time: 1729819619628
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: 9ec05181e43f46c4a308cc9d0ab98e06
+run_name: unequaled-zebra-416
+run_uuid: 9ec05181e43f46c4a308cc9d0ab98e06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819614530
+status: 3
+tags: []
+user_id: vctrg

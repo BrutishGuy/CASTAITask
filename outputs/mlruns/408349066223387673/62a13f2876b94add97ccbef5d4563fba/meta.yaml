@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/62a13f2876b94add97ccbef5d4563fba/artifacts
+end_time: 1729850769164
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 62a13f2876b94add97ccbef5d4563fba
+run_name: exultant-gnat-201
+run_uuid: 62a13f2876b94add97ccbef5d4563fba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729850715106
+status: 3
+tags: []
+user_id: vctrg

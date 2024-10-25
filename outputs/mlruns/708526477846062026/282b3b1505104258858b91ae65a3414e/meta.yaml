@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/282b3b1505104258858b91ae65a3414e/artifacts
+end_time: 1729847674710
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 282b3b1505104258858b91ae65a3414e
+run_name: crawling-crane-735
+run_uuid: 282b3b1505104258858b91ae65a3414e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847669866
+status: 3
+tags: []
+user_id: vctrg

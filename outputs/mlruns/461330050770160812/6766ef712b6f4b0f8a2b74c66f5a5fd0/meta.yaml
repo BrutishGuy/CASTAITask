@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/6766ef712b6f4b0f8a2b74c66f5a5fd0/artifacts
+end_time: 1729819655747
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: 6766ef712b6f4b0f8a2b74c66f5a5fd0
+run_name: nebulous-crane-286
+run_uuid: 6766ef712b6f4b0f8a2b74c66f5a5fd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819653566
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/a324130ec5614f83b599f8d184649aa2/artifacts
+end_time: 1729818361863
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: a324130ec5614f83b599f8d184649aa2
+run_name: entertaining-auk-754
+run_uuid: a324130ec5614f83b599f8d184649aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729818250612
+status: 3
+tags: []
+user_id: vctrg

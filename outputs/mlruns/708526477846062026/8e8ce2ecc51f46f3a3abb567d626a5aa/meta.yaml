@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/8e8ce2ecc51f46f3a3abb567d626a5aa/artifacts
+end_time: 1729847733625
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 8e8ce2ecc51f46f3a3abb567d626a5aa
+run_name: bustling-slug-203
+run_uuid: 8e8ce2ecc51f46f3a3abb567d626a5aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847728043
+status: 3
+tags: []
+user_id: vctrg

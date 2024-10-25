@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/f1a047dbb6a449ee89f35dcd7bee3efd/artifacts
+end_time: 1729819653552
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: f1a047dbb6a449ee89f35dcd7bee3efd
+run_name: amazing-wasp-843
+run_uuid: f1a047dbb6a449ee89f35dcd7bee3efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819651745
+status: 3
+tags: []
+user_id: vctrg

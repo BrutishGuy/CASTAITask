@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/be947ab9063f42a89fd933a7a151480d/artifacts
+end_time: 1729819991987
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: be947ab9063f42a89fd933a7a151480d
+run_name: classy-dove-680
+run_uuid: be947ab9063f42a89fd933a7a151480d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819983355
+status: 3
+tags: []
+user_id: vctrg

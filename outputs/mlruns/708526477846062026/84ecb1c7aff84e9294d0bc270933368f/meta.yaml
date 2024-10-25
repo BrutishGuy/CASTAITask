@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/84ecb1c7aff84e9294d0bc270933368f/artifacts
+end_time: 1729846723536
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 84ecb1c7aff84e9294d0bc270933368f
+run_name: blushing-carp-462
+run_uuid: 84ecb1c7aff84e9294d0bc270933368f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846721396
+status: 3
+tags: []
+user_id: vctrg

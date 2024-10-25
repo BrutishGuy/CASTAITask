@@ -10,4 +10,6 @@ __pycache__/
 **/*.csv
 **/*.tsv
 
+**/.trash
+.trash
 archive.py

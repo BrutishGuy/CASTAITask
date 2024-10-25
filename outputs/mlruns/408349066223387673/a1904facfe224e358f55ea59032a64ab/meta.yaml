@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/a1904facfe224e358f55ea59032a64ab/artifacts
+end_time: 1729849398935
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: a1904facfe224e358f55ea59032a64ab
+run_name: dazzling-flea-595
+run_uuid: a1904facfe224e358f55ea59032a64ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729849358039
+status: 3
+tags: []
+user_id: vctrg

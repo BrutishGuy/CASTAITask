@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/07a7c50d9abf4d8c8ad03b121cc0c047/artifacts
+end_time: 1729846712942
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 07a7c50d9abf4d8c8ad03b121cc0c047
+run_name: flawless-colt-745
+run_uuid: 07a7c50d9abf4d8c8ad03b121cc0c047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846710794
+status: 3
+tags: []
+user_id: vctrg

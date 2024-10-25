@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/8698dcdee74545d4b8e500977d736b18/artifacts
+end_time: 1729847684386
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 8698dcdee74545d4b8e500977d736b18
+run_name: unique-sloth-222
+run_uuid: 8698dcdee74545d4b8e500977d736b18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847679619
+status: 3
+tags: []
+user_id: vctrg

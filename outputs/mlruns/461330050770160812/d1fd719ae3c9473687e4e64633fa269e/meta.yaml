@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/d1fd719ae3c9473687e4e64633fa269e/artifacts
+end_time: 1729819697081
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: d1fd719ae3c9473687e4e64633fa269e
+run_name: big-colt-719
+run_uuid: d1fd719ae3c9473687e4e64633fa269e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819695412
+status: 3
+tags: []
+user_id: vctrg

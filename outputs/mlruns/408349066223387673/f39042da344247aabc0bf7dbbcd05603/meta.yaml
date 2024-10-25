@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/f39042da344247aabc0bf7dbbcd05603/artifacts
+end_time: 1729851733844
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: f39042da344247aabc0bf7dbbcd05603
+run_name: hilarious-sheep-624
+run_uuid: f39042da344247aabc0bf7dbbcd05603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851692411
+status: 3
+tags: []
+user_id: vctrg

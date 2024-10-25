@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/05d3ea9d38f14e9ebbdae4e262a55b52/artifacts
+end_time: 1729847716693
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 05d3ea9d38f14e9ebbdae4e262a55b52
+run_name: tasteful-foal-207
+run_uuid: 05d3ea9d38f14e9ebbdae4e262a55b52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847711340
+status: 3
+tags: []
+user_id: vctrg

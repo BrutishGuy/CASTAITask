@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/f482c48858634c1b930e2d5dfd24a388/artifacts
+end_time: 1729850644035
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: f482c48858634c1b930e2d5dfd24a388
+run_name: useful-ape-838
+run_uuid: f482c48858634c1b930e2d5dfd24a388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729850571862
+status: 3
+tags: []
+user_id: vctrg

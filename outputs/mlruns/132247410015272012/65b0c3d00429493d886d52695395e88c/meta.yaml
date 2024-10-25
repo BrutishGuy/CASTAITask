@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/65b0c3d00429493d886d52695395e88c/artifacts
+end_time: 1729817149139
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: 65b0c3d00429493d886d52695395e88c
+run_name: upbeat-sow-677
+run_uuid: 65b0c3d00429493d886d52695395e88c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729817081425
+status: 3
+tags: []
+user_id: vctrg

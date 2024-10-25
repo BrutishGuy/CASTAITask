@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/155756887683193776/e2f25a1f816f42d18583b49fcd075dc4/artifacts
+end_time: 1729816041234
+entry_point_name: ''
+experiment_id: '155756887683193776'
+lifecycle_stage: active
+run_id: e2f25a1f816f42d18583b49fcd075dc4
+run_name: funny-skink-441
+run_uuid: e2f25a1f816f42d18583b49fcd075dc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729816032565
+status: 3
+tags: []
+user_id: vctrg

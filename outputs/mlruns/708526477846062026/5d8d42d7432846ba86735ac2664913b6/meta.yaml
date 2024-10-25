@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/5d8d42d7432846ba86735ac2664913b6/artifacts
+end_time: 1729846550158
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 5d8d42d7432846ba86735ac2664913b6
+run_name: merciful-mule-290
+run_uuid: 5d8d42d7432846ba86735ac2664913b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846547821
+status: 3
+tags: []
+user_id: vctrg

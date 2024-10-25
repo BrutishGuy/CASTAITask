@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/0ae784f48e9942ff89021c56405fb97b/artifacts
+end_time: 1729846526959
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 0ae784f48e9942ff89021c56405fb97b
+run_name: capable-crab-842
+run_uuid: 0ae784f48e9942ff89021c56405fb97b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846524514
+status: 3
+tags: []
+user_id: vctrg

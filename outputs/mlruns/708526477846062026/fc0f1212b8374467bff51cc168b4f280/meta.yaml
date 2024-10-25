@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/fc0f1212b8374467bff51cc168b4f280/artifacts
+end_time: 1729847645769
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: fc0f1212b8374467bff51cc168b4f280
+run_name: crawling-duck-957
+run_uuid: fc0f1212b8374467bff51cc168b4f280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847640630
+status: 3
+tags: []
+user_id: vctrg

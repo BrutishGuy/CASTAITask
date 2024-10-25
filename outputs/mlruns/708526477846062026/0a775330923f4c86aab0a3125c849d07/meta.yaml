@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/0a775330923f4c86aab0a3125c849d07/artifacts
+end_time: 1729847785720
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 0a775330923f4c86aab0a3125c849d07
+run_name: nimble-seal-461
+run_uuid: 0a775330923f4c86aab0a3125c849d07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847780399
+status: 3
+tags: []
+user_id: vctrg

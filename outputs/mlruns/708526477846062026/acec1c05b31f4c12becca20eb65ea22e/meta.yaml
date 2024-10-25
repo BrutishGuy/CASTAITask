@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/acec1c05b31f4c12becca20eb65ea22e/artifacts
+end_time: 1729844805377
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: acec1c05b31f4c12becca20eb65ea22e
+run_name: polite-grouse-378
+run_uuid: acec1c05b31f4c12becca20eb65ea22e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729844805153
+status: 4
+tags: []
+user_id: vctrg

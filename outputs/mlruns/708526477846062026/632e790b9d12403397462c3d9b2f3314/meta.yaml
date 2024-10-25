@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/632e790b9d12403397462c3d9b2f3314/artifacts
+end_time: 1729846771621
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 632e790b9d12403397462c3d9b2f3314
+run_name: fun-bee-240
+run_uuid: 632e790b9d12403397462c3d9b2f3314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846769552
+status: 3
+tags: []
+user_id: vctrg

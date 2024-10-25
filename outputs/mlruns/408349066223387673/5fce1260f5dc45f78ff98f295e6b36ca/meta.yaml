@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/5fce1260f5dc45f78ff98f295e6b36ca/artifacts
+end_time: 1729849515456
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 5fce1260f5dc45f78ff98f295e6b36ca
+run_name: vaunted-trout-368
+run_uuid: 5fce1260f5dc45f78ff98f295e6b36ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729849495042
+status: 3
+tags: []
+user_id: vctrg

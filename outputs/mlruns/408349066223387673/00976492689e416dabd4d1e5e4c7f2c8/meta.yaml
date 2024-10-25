@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/00976492689e416dabd4d1e5e4c7f2c8/artifacts
+end_time: 1729849997362
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 00976492689e416dabd4d1e5e4c7f2c8
+run_name: caring-mouse-148
+run_uuid: 00976492689e416dabd4d1e5e4c7f2c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729849914285
+status: 3
+tags: []
+user_id: vctrg

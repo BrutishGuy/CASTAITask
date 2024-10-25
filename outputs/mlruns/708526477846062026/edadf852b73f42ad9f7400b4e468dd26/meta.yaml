@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/edadf852b73f42ad9f7400b4e468dd26/artifacts
+end_time: 1729846492367
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: edadf852b73f42ad9f7400b4e468dd26
+run_name: worried-hog-493
+run_uuid: edadf852b73f42ad9f7400b4e468dd26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846489926
+status: 3
+tags: []
+user_id: vctrg

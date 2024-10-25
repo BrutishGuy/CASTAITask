@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/e48af110758f42498af0945491bf365d/artifacts
+end_time: 1729819746659
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: e48af110758f42498af0945491bf365d
+run_name: amazing-lamb-491
+run_uuid: e48af110758f42498af0945491bf365d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819729735
+status: 3
+tags: []
+user_id: vctrg

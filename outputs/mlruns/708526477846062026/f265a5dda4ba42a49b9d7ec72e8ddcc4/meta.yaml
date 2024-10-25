@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/f265a5dda4ba42a49b9d7ec72e8ddcc4/artifacts
+end_time: 1729847844216
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: f265a5dda4ba42a49b9d7ec72e8ddcc4
+run_name: angry-seal-270
+run_uuid: f265a5dda4ba42a49b9d7ec72e8ddcc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847838552
+status: 3
+tags: []
+user_id: vctrg

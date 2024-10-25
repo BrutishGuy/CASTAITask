@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/9c3865bad7904632ae255195f13dff92/artifacts
+end_time: 1729850080347
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 9c3865bad7904632ae255195f13dff92
+run_name: unequaled-lamb-2
+run_uuid: 9c3865bad7904632ae255195f13dff92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729849997383
+status: 3
+tags: []
+user_id: vctrg

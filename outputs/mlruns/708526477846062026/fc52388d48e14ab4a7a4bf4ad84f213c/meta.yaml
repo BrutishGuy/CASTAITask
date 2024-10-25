@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/fc52388d48e14ab4a7a4bf4ad84f213c/artifacts
+end_time: 1729846741766
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: fc52388d48e14ab4a7a4bf4ad84f213c
+run_name: agreeable-kit-427
+run_uuid: fc52388d48e14ab4a7a4bf4ad84f213c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846739515
+status: 3
+tags: []
+user_id: vctrg

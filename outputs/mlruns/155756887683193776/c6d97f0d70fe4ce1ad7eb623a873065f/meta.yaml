@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/155756887683193776/c6d97f0d70fe4ce1ad7eb623a873065f/artifacts
+end_time: 1729816007074
+entry_point_name: ''
+experiment_id: '155756887683193776'
+lifecycle_stage: active
+run_id: c6d97f0d70fe4ce1ad7eb623a873065f
+run_name: amusing-yak-838
+run_uuid: c6d97f0d70fe4ce1ad7eb623a873065f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729816002745
+status: 3
+tags: []
+user_id: vctrg

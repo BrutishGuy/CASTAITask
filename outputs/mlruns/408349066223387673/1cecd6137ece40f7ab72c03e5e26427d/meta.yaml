@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/1cecd6137ece40f7ab72c03e5e26427d/artifacts
+end_time: 1729851171097
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 1cecd6137ece40f7ab72c03e5e26427d
+run_name: gifted-deer-706
+run_uuid: 1cecd6137ece40f7ab72c03e5e26427d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851116864
+status: 3
+tags: []
+user_id: vctrg

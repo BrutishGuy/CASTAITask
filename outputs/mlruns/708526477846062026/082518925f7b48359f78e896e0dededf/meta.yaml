@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/082518925f7b48359f78e896e0dededf/artifacts
+end_time: 1729847664847
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 082518925f7b48359f78e896e0dededf
+run_name: awesome-snake-640
+run_uuid: 082518925f7b48359f78e896e0dededf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847659740
+status: 3
+tags: []
+user_id: vctrg

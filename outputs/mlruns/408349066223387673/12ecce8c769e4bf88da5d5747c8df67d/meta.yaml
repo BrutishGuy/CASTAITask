@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/12ecce8c769e4bf88da5d5747c8df67d/artifacts
+end_time: 1729849322640
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: 12ecce8c769e4bf88da5d5747c8df67d
+run_name: ambitious-goat-991
+run_uuid: 12ecce8c769e4bf88da5d5747c8df67d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729849287501
+status: 3
+tags: []
+user_id: vctrg

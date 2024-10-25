@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/2eedfd44aea84e10a891f8ad24e1e5af/artifacts
+end_time: 1729818129431
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: 2eedfd44aea84e10a891f8ad24e1e5af
+run_name: secretive-crow-931
+run_uuid: 2eedfd44aea84e10a891f8ad24e1e5af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729818070431
+status: 3
+tags: []
+user_id: vctrg

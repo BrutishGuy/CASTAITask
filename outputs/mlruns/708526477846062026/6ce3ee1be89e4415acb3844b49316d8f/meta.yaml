@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/6ce3ee1be89e4415acb3844b49316d8f/artifacts
+end_time: 1729846743974
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 6ce3ee1be89e4415acb3844b49316d8f
+run_name: amazing-gnat-740
+run_uuid: 6ce3ee1be89e4415acb3844b49316d8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846741779
+status: 3
+tags: []
+user_id: vctrg

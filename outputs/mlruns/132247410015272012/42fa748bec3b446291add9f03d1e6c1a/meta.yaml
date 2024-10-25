@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/42fa748bec3b446291add9f03d1e6c1a/artifacts
+end_time: 1729816932541
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: 42fa748bec3b446291add9f03d1e6c1a
+run_name: nebulous-wren-920
+run_uuid: 42fa748bec3b446291add9f03d1e6c1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729816921077
+status: 3
+tags: []
+user_id: vctrg

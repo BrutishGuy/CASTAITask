@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/6c07d0ac2847440c9b8a6361d17988dc/artifacts
+end_time: 1729847806382
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 6c07d0ac2847440c9b8a6361d17988dc
+run_name: upset-hog-461
+run_uuid: 6c07d0ac2847440c9b8a6361d17988dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847801188
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/208c279821c94c548a9e1e24a20cb001/artifacts
+end_time: 1729817019777
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: 208c279821c94c548a9e1e24a20cb001
+run_name: worried-crow-259
+run_uuid: 208c279821c94c548a9e1e24a20cb001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729816992678
+status: 3
+tags: []
+user_id: vctrg

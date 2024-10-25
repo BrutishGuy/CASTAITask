@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/2111eca4f4f5423696484fbf4e259b48/artifacts
+end_time: 1729819859692
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: 2111eca4f4f5423696484fbf4e259b48
+run_name: smiling-bass-481
+run_uuid: 2111eca4f4f5423696484fbf4e259b48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819845907
+status: 3
+tags: []
+user_id: vctrg

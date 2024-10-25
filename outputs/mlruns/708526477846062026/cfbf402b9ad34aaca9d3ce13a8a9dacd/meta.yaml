@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/cfbf402b9ad34aaca9d3ce13a8a9dacd/artifacts
+end_time: 1729847822584
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: cfbf402b9ad34aaca9d3ce13a8a9dacd
+run_name: burly-elk-388
+run_uuid: cfbf402b9ad34aaca9d3ce13a8a9dacd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847817268
+status: 3
+tags: []
+user_id: vctrg

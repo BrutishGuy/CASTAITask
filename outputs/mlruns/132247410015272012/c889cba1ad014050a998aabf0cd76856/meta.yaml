@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/c889cba1ad014050a998aabf0cd76856/artifacts
+end_time: 1729819071961
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: c889cba1ad014050a998aabf0cd76856
+run_name: bedecked-mole-880
+run_uuid: c889cba1ad014050a998aabf0cd76856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819025917
+status: 3
+tags: []
+user_id: vctrg

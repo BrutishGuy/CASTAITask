@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/aa4c4aea7df2491b97e2e02350852c71/artifacts
+end_time: 1729843292226
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: aa4c4aea7df2491b97e2e02350852c71
+run_name: resilient-cub-698
+run_uuid: aa4c4aea7df2491b97e2e02350852c71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729843292132
+status: 4
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/e673ada58173443385a368fbcf1fd2ae/artifacts
+end_time: 1729849287487
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: e673ada58173443385a368fbcf1fd2ae
+run_name: polite-fish-194
+run_uuid: e673ada58173443385a368fbcf1fd2ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729849264073
+status: 3
+tags: []
+user_id: vctrg

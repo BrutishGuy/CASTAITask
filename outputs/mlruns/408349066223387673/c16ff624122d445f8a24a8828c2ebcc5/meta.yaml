@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/c16ff624122d445f8a24a8828c2ebcc5/artifacts
+end_time: 1729849807705
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: c16ff624122d445f8a24a8828c2ebcc5
+run_name: unequaled-newt-815
+run_uuid: c16ff624122d445f8a24a8828c2ebcc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729849784356
+status: 3
+tags: []
+user_id: vctrg

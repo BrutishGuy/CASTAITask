@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/d4133b3612b0406ea341c685b7f7ca84/artifacts
+end_time: 1729847705788
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: d4133b3612b0406ea341c685b7f7ca84
+run_name: stylish-duck-119
+run_uuid: d4133b3612b0406ea341c685b7f7ca84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847700459
+status: 3
+tags: []
+user_id: vctrg

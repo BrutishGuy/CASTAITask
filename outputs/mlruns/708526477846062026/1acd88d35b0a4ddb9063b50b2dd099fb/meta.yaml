@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/1acd88d35b0a4ddb9063b50b2dd099fb/artifacts
+end_time: 1729846751016
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 1acd88d35b0a4ddb9063b50b2dd099fb
+run_name: dashing-elk-352
+run_uuid: 1acd88d35b0a4ddb9063b50b2dd099fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846748562
+status: 3
+tags: []
+user_id: vctrg

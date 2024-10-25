@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/04afe008db4f43508403407701625b04/artifacts
+end_time: 1729847640615
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 04afe008db4f43508403407701625b04
+run_name: skittish-pug-476
+run_uuid: 04afe008db4f43508403407701625b04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847634999
+status: 3
+tags: []
+user_id: vctrg

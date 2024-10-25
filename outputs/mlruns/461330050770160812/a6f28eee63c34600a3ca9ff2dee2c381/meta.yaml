@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/a6f28eee63c34600a3ca9ff2dee2c381/artifacts
+end_time: 1729819977970
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: a6f28eee63c34600a3ca9ff2dee2c381
+run_name: skittish-bass-34
+run_uuid: a6f28eee63c34600a3ca9ff2dee2c381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819964692
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/b13fa41d60cf4e3f890b3c307dd75721/artifacts
+end_time: 1729846480974
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: b13fa41d60cf4e3f890b3c307dd75721
+run_name: sedate-cat-427
+run_uuid: b13fa41d60cf4e3f890b3c307dd75721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846478708
+status: 3
+tags: []
+user_id: vctrg

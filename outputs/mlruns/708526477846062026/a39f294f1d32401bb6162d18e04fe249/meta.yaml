@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/a39f294f1d32401bb6162d18e04fe249/artifacts
+end_time: 1729846564399
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: a39f294f1d32401bb6162d18e04fe249
+run_name: luminous-vole-34
+run_uuid: a39f294f1d32401bb6162d18e04fe249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846561869
+status: 3
+tags: []
+user_id: vctrg

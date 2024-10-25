@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/11482f7e62cc4a1fadd6945c7b4b3693/artifacts
+end_time: 1729847795944
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 11482f7e62cc4a1fadd6945c7b4b3693
+run_name: glamorous-hawk-475
+run_uuid: 11482f7e62cc4a1fadd6945c7b4b3693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729847790960
+status: 3
+tags: []
+user_id: vctrg

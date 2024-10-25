@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/d9a7e2bb830e465f8f284ea40e87f8dd/artifacts
+end_time: 1729850304975
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: d9a7e2bb830e465f8f284ea40e87f8dd
+run_name: casual-fox-82
+run_uuid: d9a7e2bb830e465f8f284ea40e87f8dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729850234422
+status: 3
+tags: []
+user_id: vctrg

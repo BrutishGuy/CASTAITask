@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/be5537c8fa90489eb6925615ebe86748/artifacts
+end_time: 1729850446824
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: be5537c8fa90489eb6925615ebe86748
+run_name: adaptable-snipe-208
+run_uuid: be5537c8fa90489eb6925615ebe86748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729850376050
+status: 3
+tags: []
+user_id: vctrg

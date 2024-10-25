@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/6ce2f99e9def467a996c4f8eba751dcf/artifacts
+end_time: 1729820053771
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: 6ce2f99e9def467a996c4f8eba751dcf
+run_name: welcoming-hog-670
+run_uuid: 6ce2f99e9def467a996c4f8eba751dcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729820047204
+status: 3
+tags: []
+user_id: vctrg

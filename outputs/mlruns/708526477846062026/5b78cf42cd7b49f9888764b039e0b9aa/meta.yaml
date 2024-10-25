@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/5b78cf42cd7b49f9888764b039e0b9aa/artifacts
+end_time: 1729844098244
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 5b78cf42cd7b49f9888764b039e0b9aa
+run_name: resilient-goat-849
+run_uuid: 5b78cf42cd7b49f9888764b039e0b9aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729844098161
+status: 4
+tags: []
+user_id: vctrg

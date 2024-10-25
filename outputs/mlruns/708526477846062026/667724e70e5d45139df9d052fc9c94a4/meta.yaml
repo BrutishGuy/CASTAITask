@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/667724e70e5d45139df9d052fc9c94a4/artifacts
+end_time: 1729843957829
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 667724e70e5d45139df9d052fc9c94a4
+run_name: treasured-goat-454
+run_uuid: 667724e70e5d45139df9d052fc9c94a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729843957400
+status: 4
+tags: []
+user_id: vctrg

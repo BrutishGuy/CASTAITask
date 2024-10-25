@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/bf26a7f6d1114b0eb57d5c922838f5b9/artifacts
+end_time: 1729844495819
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: bf26a7f6d1114b0eb57d5c922838f5b9
+run_name: rogue-auk-784
+run_uuid: bf26a7f6d1114b0eb57d5c922838f5b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729844495734
+status: 4
+tags: []
+user_id: vctrg

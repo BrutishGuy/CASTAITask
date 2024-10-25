@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/408349066223387673/ec70e12bf1a94488996842f14cb3e0a1/artifacts
+end_time: 1729849914257
+entry_point_name: ''
+experiment_id: '408349066223387673'
+lifecycle_stage: active
+run_id: ec70e12bf1a94488996842f14cb3e0a1
+run_name: victorious-trout-327
+run_uuid: ec70e12bf1a94488996842f14cb3e0a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729849843520
+status: 3
+tags: []
+user_id: vctrg

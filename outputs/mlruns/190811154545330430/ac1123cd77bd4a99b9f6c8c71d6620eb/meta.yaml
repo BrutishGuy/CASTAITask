@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/190811154545330430/ac1123cd77bd4a99b9f6c8c71d6620eb/artifacts
+end_time: 1729814881042
+entry_point_name: ''
+experiment_id: '190811154545330430'
+lifecycle_stage: active
+run_id: ac1123cd77bd4a99b9f6c8c71d6620eb
+run_name: adorable-mole-219
+run_uuid: ac1123cd77bd4a99b9f6c8c71d6620eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729814870363
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/132247410015272012/1fd383ce4c544a8297dd961d377bdeff/artifacts
+end_time: 1729818403876
+entry_point_name: ''
+experiment_id: '132247410015272012'
+lifecycle_stage: active
+run_id: 1fd383ce4c544a8297dd961d377bdeff
+run_name: omniscient-horse-958
+run_uuid: 1fd383ce4c544a8297dd961d377bdeff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729818361875
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/461330050770160812/7f39356318d044d89d73b403da38b801/artifacts
+end_time: 1729819606392
+entry_point_name: ''
+experiment_id: '461330050770160812'
+lifecycle_stage: active
+run_id: 7f39356318d044d89d73b403da38b801
+run_name: inquisitive-bird-366
+run_uuid: 7f39356318d044d89d73b403da38b801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729819595415
+status: 3
+tags: []
+user_id: vctrg

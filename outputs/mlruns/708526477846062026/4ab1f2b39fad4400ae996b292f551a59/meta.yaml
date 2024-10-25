@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/708526477846062026/4ab1f2b39fad4400ae996b292f551a59/artifacts
+end_time: 1729846796537
+entry_point_name: ''
+experiment_id: '708526477846062026'
+lifecycle_stage: active
+run_id: 4ab1f2b39fad4400ae996b292f551a59
+run_name: whimsical-cow-861
+run_uuid: 4ab1f2b39fad4400ae996b292f551a59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729846794268
+status: 3
+tags: []
+user_id: vctrg
