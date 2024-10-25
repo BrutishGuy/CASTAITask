@@ -31,7 +31,7 @@ class EDA:
         print("\nCategorical Features Summary:")
         print(self.df.describe(include='object'))
     
-    def plot_features(self, grid_size=(3, 3), plot_type='hist'):
+    def plot_features(self, grid_size=(3, 3), plot_type='hist', n_bins=20):
         """
         Plot the distributions of numerical and categorical features.
 
@@ -43,13 +43,13 @@ class EDA:
             Type of plot to use for numerical features. Can be 'hist' or 'box'.
         """
         numerical_cols = self.df.select_dtypes(include=['float64', 'float32', 'int64']).columns
-        categorical_cols = self.df.select_dtypes(include=['object']).columns
+        categorical_cols = self.df.select_dtypes(include=['object', 'string', 'category']).columns
 
         # plot numerical features in batches
         num_plots = len(numerical_cols)
         for i in range(0, num_plots, grid_size[0] * grid_size[1]):
             batch_cols = numerical_cols[i:i + grid_size[0] * grid_size[1]]
-            self._plot_numerical_features(batch_cols, grid_size, plot_type)
+            self._plot_numerical_features(batch_cols, grid_size, plot_type, n_bins=n_bins)
 
         # plot categorical features in batches
         cat_plots = len(categorical_cols)
@@ -57,7 +57,7 @@ class EDA:
             batch_cols = categorical_cols[i:i + grid_size[0] * grid_size[1]]
             self._plot_categorical_features(batch_cols, grid_size)
 
-    def _plot_numerical_features(self, cols, grid_size, plot_type):
+    def _plot_numerical_features(self, cols, grid_size, plot_type, n_bins=20):
         """
         Helper function to plot numerical features in a grid layout.
         """
@@ -68,7 +68,7 @@ class EDA:
         for idx, col in enumerate(cols):
             ax = axes[idx]
             if plot_type == 'hist':
-                ax.hist(self.df[col].dropna(), bins=20, color='blue', alpha=0.7)
+                ax.hist(self.df[col].dropna(), bins=n_bins, color='blue', alpha=0.7)
                 ax.set_title(f'Distribution of {col}')
             elif plot_type == 'box':
                 ax.boxplot(self.df[col].dropna(), vert=False)
@@ -139,6 +139,37 @@ class EDA:
         plt.title("Correlation Matrix")
         plt.show()
     
+    def target_correlations(self, corr_figsize=(24, 16), annot=False):
+        """
+        Plot the correlations of dependent variables against target variable, for numerical features.
+        """
+        # select only numerical features, including the newly created binary label
+        numerical_data = self.df.select_dtypes(include=['float64', 'float32', 'int64']).copy()
+        # binarize the target variable ('label') in the original dataframe
+        numerical_data['label'] = self.df['label'].map({'Interrupted': 1, 'Continue': 0})
+
+        # extract the target variable
+        target = numerical_data['label']
+        features = numerical_data.drop(columns=['label'])
+
+        # calculate correlations using Pearson, Spearman individually
+        corr_pearson = features.apply(lambda x: x.corr(target, method='pearson')).sort_values(ascending=False)
+        corr_spearman = features.apply(lambda x: x.corr(target, method='spearman')).sort_values(ascending=False)
+
+        # plotting the results
+        fig, ax = plt.subplots(1, 2, figsize=corr_figsize)
+        
+        ax[0].set_title('Pearson method')
+        sns.heatmap(corr_pearson.to_frame(), ax=ax[0], annot=annot)
+        
+        ax[1].set_title('Spearman method')
+        sns.heatmap(corr_spearman.to_frame(), ax=ax[1], annot=annot)
+        
+        #ax[2].set_title('Kendall method')
+        #sns.heatmap(corr_kendall.to_frame(), ax=ax[2], annot=annot)
+
+        plt.show()
+
     def handle_missing_values(self, X, strategy):
         """
         Handle missing values in the dataset based on the specified strategy.
