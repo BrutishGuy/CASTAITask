@@ -1,11 +1,21 @@
 import mlflow
 import mlflow.sklearn
 from hyperopt import fmin, tpe, Trials, STATUS_OK
-from sklearn.model_selection import cross_val_score
-from sklearn.pipeline import Pipeline
+from sklearn.model_selection import cross_validate
+from mlflow.exceptions import MlflowException
 
 class ModelOptimiser:
-    def __init__(self, X_train, y_train, search_space, model_constructor, scoring='roc_auc', cv=3, max_evals=50):
+    def __init__(self, 
+                 X_train, 
+                 y_train, 
+                 search_space, 
+                 model_constructor, 
+                 experiment_name,
+                 experiment_description,
+                 experiment_tags,
+                 scoring={"roc_auc": "roc_auc", "precision": "precision", "recall": "recall", "f1": "f1"}, 
+                 cv=3, 
+                 max_evals=50):
         """
         Initialize the ModelOptimiser.
 
@@ -19,8 +29,14 @@ class ModelOptimiser:
             The hyperparameter search space for the model.
         model_constructor : callable
             A function that constructs the model, given hyperparameters.
+        experiment_name : str
+            A unique name for the experiment to provide to mlflow when creating the experiment.
+        experiment_description : str
+            A short description of the experiment to provide to mlflow when creating the experiment.
+        experiment_tags : dict
+            A dict containing tags which should be associated with the experiment.
         scoring : str
-            The scoring metric (default is 'roc_auc').
+            The scoring metric (default is a dict, {"roc_auc": "roc_auc", "precision": "precision", "recall": "recall", "f1": "f1"}).
         cv : int
             Number of cross-validation folds (default is 3).
         max_evals : int
@@ -34,6 +50,20 @@ class ModelOptimiser:
         self.cv = cv
         self.max_evals = max_evals
         self.trials = Trials()
+        self.experiment_description = experiment_description
+        self.experiment_tags = experiment_tags
+        self.experiment_name = experiment_name 
+        # create the cxperiment, providing a unique name, if it doesn't exist already
+
+        try:
+            self.logreg_experiment_def = mlflow.create_experiment(
+                name=self.experiment_name, tags=experiment_tags
+            )
+        except MlflowException:
+            print("Experiment already exists... skipping creation and setting as experiment instead.")
+
+        self.logreg_experiment = mlflow.set_experiment(self.experiment_name)
+
 
     def objective(self, params):
         """
@@ -51,25 +81,19 @@ class ModelOptimiser:
         with mlflow.start_run(nested=True):
             # Construct the model with the current set of hyperparameters
             model = self.model_constructor(params)
-
-            # Create a pipeline with preprocessing and feature engineering
-            pipeline = Pipeline([
-                ('preprocessing', preprocessor),
-                ('feature_engineering', feature_engineer),
-                ('classifier', model)
-            ])
-
-            # Apply class rebalancing to the training set
-            X_train_resampled, y_train_resampled = class_rebalancer.transform(self.X_train, self.y_train)
-
             # Evaluate the model using cross-validation
-            score = cross_val_score(pipeline, X_train_resampled, y_train_resampled, cv=self.cv, scoring=self.scoring).mean()
+            scores = cross_validate(model, self.X_train, self.y_train, cv=self.cv, scoring=self.scoring)
+                    
+            metrics = {"ROCAUC": scores["test_roc_auc"].mean(), 
+                       "Precision": scores["test_precision"].mean(), 
+                       "Recall": scores["test_recall"].mean(),
+                       "F1": scores["test_f1"].mean()}
 
             # Log the parameters and score in MLflow
             mlflow.log_params(params)
-            mlflow.log_metric(self.scoring, score)
+            mlflow.log_metrics(metrics)
 
-            return {'loss': -score, 'status': STATUS_OK}
+            return {'loss': -scores["test_roc_auc"].mean(), 'status': STATUS_OK}
 
     def optimize(self):
         """
