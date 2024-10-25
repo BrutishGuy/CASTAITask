@@ -107,5 +107,81 @@ Some insights from the exploratory data analysis can be summarised here as:
 
 If we combine the introduction of quantile/log transformations with PCA, that may also introduce some interesting effects and present us with good, clean features to use for modelling.
 
-## Feature Engineering Discussion
+## Feature Engineering Performed
+
+This section naturally follows on from the EDA section above, where we make use of the insights we found about the data to engineer the features we will use for modelling. Feature engineering focused on maximizing the information provided to our models, reducing dimensionality, and managing multicollinearity between (and skewness in) the features in the data. Key features/steps are:
+
+- **Missing Value Imputation:** We addressed missing values using zero-value imputation for numerical features, based on prior examination of the distributions and what we discussed regarding the inferred/assumed context of the data.
+- **Datetime Feature Extraction:** To capture potential temporal patterns in the data, we extracted features from a `datetime64[us]` column, generating the month, day of the month, day of the week, hour, minute, and second.
+- **Scaling:** Standard scaling was applied to the numerical fields to ensure consistency across features in terms of magnitude and to comply with necessities from models such as the logistic regression model and our neural network models.
+- **Multicollinearity Handling (VIF and PCA):** We addressed multicollinearity using two strategies (which are chosen as part of the experimentation): VIF (Variance Inflation Factor) to detect and remove highly correlated features, or PCA (Principal Component Analysis) to retain significant variance while reducing the number of dimensions. Spoiler alert: I ended up just using PCA.
+- **Transformations on Numerical Data:** Based on our analysis, we applied various transformations (Log, Quantile, and Box-Cox) to improve the interpretability and distribution of skewed numerical features. The user could specify default transformations for all numerical fields and also override individual columns with custom transformations as necessary.
+
+### Class Imbalance
+
+We address the class imbalance by undersampling the "Continue" class, which is the majority class. We do this ONLY for the train set, so as to improve model stability and reduce overfitting to the majority class, while leaving validation and test datasets imbalanced in order to more accurately evaluate the model as close to real-world conditions as possible.
+
+## Models Selected for Experimentation
+We chose a combination of classical machine learning models and neural networks to evaluate a range of model complexities and capabilities.
+
+- **Logistic Regression:** Selected as a baseline, logistic regression provides a linear approach to classification. It helps establish a reference point for model performance against more complex architectures.
+- **Random Forest Classifier:** As a tree-based ensemble method, random forests offer non-linear decision boundaries and are generally robust to feature correlations and multicollinearity. It captures complex patterns and interactions between features without overfitting.
+- **XGBoost:** Known for its performance on structured data, XGBoost utilizes gradient-boosting techniques to optimize performance, handling imbalanced data effectively while being highly tunable.
+- **Neural Network Classifiers:**
+- - **Basic Neural Network:** This model features a simple architecture designed to assess the neural network’s ability to capture complex, non-linear patterns.
+- - **Advanced Neural Network:** An extended version of the basic network, this model incorporates additional hidden layers, dropout, batch normalization, and various activation functions (ReLU, LeakyReLU, Tanh). It provides the model with increased representational power and regularization techniques to manage overfitting risks.
+
+These models were chosen to balance complexity, and predictive performance.
+
+## Metrics Selected for Evaluation
+
+Our evaluation metrics include ROC AUC, F1 Score, Precision, and Recall. They each provide diffferent insights into model performance, especially in the context of our imbalanced dataset:
+
+- **ROC AUC:** This metric measures the model's ability to distinguish between classes. In our context, a high ROC AUC indicates that the model effectively separates the positive and negative classes, which is essential for imbalanced datasets where the decision threshold varies.
+- **F1 Score:** F1 Score combines precision and recall, making it useful for imbalanced datasets. This score is especially important for our project because it balances false positives and false negatives, providing a holistic view of performance where both types of errors have significant implications.
+- **Precision:** Precision is the ratio of true positives to the sum of true positives and false positives. It’s especially valuable in contexts where false positives are costly, ensuring that positive predictions are more likely to be correct.
+- **Recall:** Recall is the ratio of true positives to the sum of true positives and false negatives. This metric emphasizes minimizing false negatives, which is crucial when it’s important to capture as many positive cases as possible.
+
+Using this combination of metrics allows us to fully understand the model's performance, and to detect risks of using these models in production, depending on the business use-cases. For example, if we have a strong requirement to catch all "Interrupted" cases with high reliability, without much concern for false positivies, we would have a high preference for near-perfect recall, with high tolerance for lower precision scores.
+
+Conversely, if false positives are detrimental to the business's goals, then we will need to focus more on precision, at the risk of not catching some "Interrupted" cases, if we need to trade-off recall. F1 and ROC give us a more balanced view to know the overall performance of the model in the same light of false positives/false negatives
+
+## Setup of Experimentation
+
+The experimental setup focused on efficient, organized hyperparameter tuning and tracking across multiple models using Hyperopt for optimization, MLflow for experiment tracking, and custom classes for streamlined configuration.
+
+### Hyperparameter Optimization with Hyperopt
+
+We used Hyperopt for automated hyperparameter tuning across model architectures. Hyperopt allowed us to define flexible search spaces for parameters like learning rate, hidden layer sizes, dropout probabilities, and optimizer types. This facilitated efficient, targeted searches in a high-dimensional space without manually testing each configuration. We also used ROC AUC as a loss metric to the hyperopt optimiser. This can be switched to be F1, recall or precision depending on overall business use-case requirements.
+
+### Experiment Tracking with MLflow
+
+MLflow was employed to systematically track and log each experiment's metrics, hyperparameters, and results. Each experiment was tagged with relevant metadata (e.g., model type, feature set, and experiment version), enabling us to compare runs, visualize performance, and access artifacts in a centralized UI. Look at the README.md Installation Instructions section on how to run MLflow locally. The mlruns folder is located in the `outputs` directory, and so you should launch the MLflow UI from there
+
+### Tags and Experiment Descriptions 
+
+By tagging experiments with model names, feature sets, and version information, we could easily differentiate between configurations and track progress over time. Experiment descriptions provided context on specific experimental goals or configurations, assisting with future interpretations and reproducibility.
+
+### Custom ModelOptimiser Class
+The ModelOptimiser class provided a streamlined and flexible interface for managing hyperparameter optimization and model training processes. By abstracting the setup process, it handled initializing models, parameter searches, and MLflow logging, enhancing experiment reproducibility and simplifying hyperparameter tuning. The ModelOptimiser made it straightforward to define and test multiple architectures while maintaining a clean code structure.
+
+This setup enabled efficient experimentation and fine-grained control over each model’s configuration, ensuring that we could effectively compare performance across diverse architectures and quickly iterate on results.
+
+## Results, Discussion & Improvements
+
+Our results indicate that feature engineering is definitely helpful. Our base logistic regression classifier performs the works, with an ROC of 0.79 approximately, and recall and precision values of <0.6. This is fairly poor for most requirements, and hence we already see we can likely do much better.
+
+Our next set of experiments involves the full feature set, which includes feature transformations, scaling, imputation, datetime feature extraction, and 100 PCA components extracted as a final step.
+
+Our observations:
+
+- The best performing model in terms of ROC AUC is the XG Boost model with a value of 0.93. From there, we see that it has a fair balance between precision and recall, with approx. 0.86 and 0.90 respectively - likely achieved through its boosting that pays attention to the mistakes of the previous model in the boosting chain. If we need a balanced model that achieves good performance overall, the XG Boost with our engineered features is the way to go.
+- The best performing model in terms of Recall overall is recall is the advanced neural network, which gives 0.99 recall against a fairly poor 0.50 precision (basically 1 in 2 predicted interruptions will actually be interruptions). There is another run which yields a better trade-off, with 0.95 recall against 0.64 precision (almost 2 in 3 interruptions will actually be interruptions), which is much better, again depending on the requirement for high recall, although 1 in 20 interruptions not caught at all, may be too unacceptable compared to the 1 in 100 uncaught as with the best model.
+
+These experiments, where we use all the features together with PCA yielded the best results overall and so this is what we cover here in the discussion.
+
+In terms of parameters and training, these models are fairly simple. The best performing random forests were those with the deepest trees (`max_depth`) and the largest number of trees (`n_estimators`), while for XG Boost a similar tendency was observed. Finally, the neural networks performed best with roughly 3-4 layers, batch normalisation, dropout and roughly 128-518 nodes (from the largest to smallest size layer) in its layers. As a whole, these models are fast and easy to train, and therefore each of them can be suitable choices for production deployment. The neural network can be further optimised for precision improvement through further model parameter tuning, training over larger epochs, and feature engineering.
+
+Overall, we can also experiment with different loss functions for the hyperparameter optimisation, which currently optimised for ROC AUC, which may give us better results depending on the business use-case requirements for predicting interruptions correctly.
+
 
