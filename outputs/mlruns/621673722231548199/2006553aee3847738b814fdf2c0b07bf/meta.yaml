@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/2006553aee3847738b814fdf2c0b07bf/artifacts
+end_time: 1729956265151
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: 2006553aee3847738b814fdf2c0b07bf
+run_name: rogue-shoat-506
+run_uuid: 2006553aee3847738b814fdf2c0b07bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729956119236
+status: 3
+tags: []
+user_id: vctrg

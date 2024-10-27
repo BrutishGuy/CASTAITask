@@ -1,0 +1,6 @@
+artifact_location: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190
+creation_time: 1729981563217
+experiment_id: '352001033343944190'
+last_update_time: 1729981563217
+lifecycle_stage: active
+name: logistic_regression_hp_opt_use_transforms_no_pca_all_features

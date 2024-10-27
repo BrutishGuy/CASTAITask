@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/d5dfd445216f4a25ab69c24e2ad659fa/artifacts
+end_time: 1729978781602
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: d5dfd445216f4a25ab69c24e2ad659fa
+run_name: monumental-worm-670
+run_uuid: d5dfd445216f4a25ab69c24e2ad659fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978776903
+status: 3
+tags: []
+user_id: vctrg

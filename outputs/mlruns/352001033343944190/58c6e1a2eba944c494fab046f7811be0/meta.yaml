@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/58c6e1a2eba944c494fab046f7811be0/artifacts
+end_time: 1729981725508
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: 58c6e1a2eba944c494fab046f7811be0
+run_name: legendary-hog-395
+run_uuid: 58c6e1a2eba944c494fab046f7811be0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981717248
+status: 3
+tags: []
+user_id: vctrg

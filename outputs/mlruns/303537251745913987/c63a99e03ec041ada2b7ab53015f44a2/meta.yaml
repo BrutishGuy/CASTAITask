@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/303537251745913987/c63a99e03ec041ada2b7ab53015f44a2/artifacts
+end_time: 1729979909343
+entry_point_name: ''
+experiment_id: '303537251745913987'
+lifecycle_stage: active
+run_id: c63a99e03ec041ada2b7ab53015f44a2
+run_name: sneaky-auk-812
+run_uuid: c63a99e03ec041ada2b7ab53015f44a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729979833243
+status: 3
+tags: []
+user_id: vctrg

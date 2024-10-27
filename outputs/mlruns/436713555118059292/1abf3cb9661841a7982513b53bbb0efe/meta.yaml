@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/1abf3cb9661841a7982513b53bbb0efe/artifacts
+end_time: 1729982120205
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 1abf3cb9661841a7982513b53bbb0efe
+run_name: defiant-cat-120
+run_uuid: 1abf3cb9661841a7982513b53bbb0efe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982115609
+status: 3
+tags: []
+user_id: vctrg

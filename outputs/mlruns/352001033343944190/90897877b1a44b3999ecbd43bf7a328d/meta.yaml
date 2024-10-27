@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/90897877b1a44b3999ecbd43bf7a328d/artifacts
+end_time: 1729981674807
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: 90897877b1a44b3999ecbd43bf7a328d
+run_name: debonair-vole-342
+run_uuid: 90897877b1a44b3999ecbd43bf7a328d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981666698
+status: 3
+tags: []
+user_id: vctrg

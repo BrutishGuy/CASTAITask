@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/303537251745913987/ca564e9680024ca7ab14bf8d11a0840e/artifacts
+end_time: 1729981489021
+entry_point_name: ''
+experiment_id: '303537251745913987'
+lifecycle_stage: active
+run_id: ca564e9680024ca7ab14bf8d11a0840e
+run_name: capable-flea-751
+run_uuid: ca564e9680024ca7ab14bf8d11a0840e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981483468
+status: 4
+tags: []
+user_id: vctrg

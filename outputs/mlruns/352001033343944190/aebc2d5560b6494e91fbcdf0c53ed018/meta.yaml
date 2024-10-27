@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/aebc2d5560b6494e91fbcdf0c53ed018/artifacts
+end_time: 1729981649778
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: aebc2d5560b6494e91fbcdf0c53ed018
+run_name: brawny-snail-40
+run_uuid: aebc2d5560b6494e91fbcdf0c53ed018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981641459
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/303537251745913987/6fd4aba5896c414f9380a82d65517d96/artifacts
+end_time: 1729979531503
+entry_point_name: ''
+experiment_id: '303537251745913987'
+lifecycle_stage: active
+run_id: 6fd4aba5896c414f9380a82d65517d96
+run_name: calm-shrike-817
+run_uuid: 6fd4aba5896c414f9380a82d65517d96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729979460461
+status: 3
+tags: []
+user_id: vctrg

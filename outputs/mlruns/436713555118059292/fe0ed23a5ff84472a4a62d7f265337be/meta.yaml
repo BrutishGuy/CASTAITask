@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/fe0ed23a5ff84472a4a62d7f265337be/artifacts
+end_time: 1729982187468
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: fe0ed23a5ff84472a4a62d7f265337be
+run_name: indecisive-sheep-912
+run_uuid: fe0ed23a5ff84472a4a62d7f265337be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982182930
+status: 3
+tags: []
+user_id: vctrg

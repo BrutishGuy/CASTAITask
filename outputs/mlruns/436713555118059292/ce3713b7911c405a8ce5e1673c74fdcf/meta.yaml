@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/ce3713b7911c405a8ce5e1673c74fdcf/artifacts
+end_time: 1729982830908
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: ce3713b7911c405a8ce5e1673c74fdcf
+run_name: serious-midge-225
+run_uuid: ce3713b7911c405a8ce5e1673c74fdcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982826354
+status: 3
+tags: []
+user_id: vctrg

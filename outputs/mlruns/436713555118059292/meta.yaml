@@ -1,0 +1,6 @@
+artifact_location: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292
+creation_time: 1729982115516
+experiment_id: '436713555118059292'
+last_update_time: 1729982115516
+lifecycle_stage: active
+name: basic_neural_network_hp_opt_use_transforms_use_pca_all_features

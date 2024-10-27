@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/4ee6c42118a3437abac078dcc7ad31cc/artifacts
+end_time: 1729982866777
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 4ee6c42118a3437abac078dcc7ad31cc
+run_name: brawny-lynx-622
+run_uuid: 4ee6c42118a3437abac078dcc7ad31cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982862416
+status: 3
+tags: []
+user_id: vctrg

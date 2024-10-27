@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/ead5e737f0534ae1bf80cbb1ff7f9a0e/artifacts
+end_time: 1729981580161
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: ead5e737f0534ae1bf80cbb1ff7f9a0e
+run_name: suave-tern-981
+run_uuid: ead5e737f0534ae1bf80cbb1ff7f9a0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981571677
+status: 3
+tags: []
+user_id: vctrg

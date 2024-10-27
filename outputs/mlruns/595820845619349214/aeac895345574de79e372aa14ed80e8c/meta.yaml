@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/595820845619349214/aeac895345574de79e372aa14ed80e8c/artifacts
+end_time: 1729983058567
+entry_point_name: ''
+experiment_id: '595820845619349214'
+lifecycle_stage: active
+run_id: aeac895345574de79e372aa14ed80e8c
+run_name: luxuriant-yak-120
+run_uuid: aeac895345574de79e372aa14ed80e8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729983040261
+status: 3
+tags: []
+user_id: vctrg

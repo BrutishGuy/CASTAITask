@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/6f80fbf3e88b4424bd51c39fbbe29924/artifacts
+end_time: 1729981828653
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: 6f80fbf3e88b4424bd51c39fbbe29924
+run_name: rare-ant-77
+run_uuid: 6f80fbf3e88b4424bd51c39fbbe29924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981819997
+status: 3
+tags: []
+user_id: vctrg

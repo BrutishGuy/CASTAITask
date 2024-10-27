@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/595820845619349214/08a57ff01c174471aed335467448b971/artifacts
+end_time: 1729983124418
+entry_point_name: ''
+experiment_id: '595820845619349214'
+lifecycle_stage: active
+run_id: 08a57ff01c174471aed335467448b971
+run_name: useful-loon-940
+run_uuid: 08a57ff01c174471aed335467448b971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729983058584
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/ee36090314e542419846e721e2326f03/artifacts
+end_time: 1729950622369
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: ee36090314e542419846e721e2326f03
+run_name: bold-stork-539
+run_uuid: ee36090314e542419846e721e2326f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729950621308
+status: 4
+tags: []
+user_id: vctrg

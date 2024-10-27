@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/d024509eed6c464db3b21e510e948dee/artifacts
+end_time: 1729981941390
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: d024509eed6c464db3b21e510e948dee
+run_name: able-stoat-575
+run_uuid: d024509eed6c464db3b21e510e948dee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981932206
+status: 3
+tags: []
+user_id: vctrg

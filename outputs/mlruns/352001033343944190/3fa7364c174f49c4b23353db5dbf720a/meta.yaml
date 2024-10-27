@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/3fa7364c174f49c4b23353db5dbf720a/artifacts
+end_time: 1729981980538
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: 3fa7364c174f49c4b23353db5dbf720a
+run_name: chill-foal-825
+run_uuid: 3fa7364c174f49c4b23353db5dbf720a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981970625
+status: 3
+tags: []
+user_id: vctrg

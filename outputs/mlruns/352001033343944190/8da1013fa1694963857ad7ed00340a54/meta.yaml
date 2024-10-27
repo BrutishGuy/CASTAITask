@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/8da1013fa1694963857ad7ed00340a54/artifacts
+end_time: 1729981863486
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: 8da1013fa1694963857ad7ed00340a54
+run_name: abrasive-ray-189
+run_uuid: 8da1013fa1694963857ad7ed00340a54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981854852
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/303537251745913987/309b47d720a64f9f9800cde1fe905f72/artifacts
+end_time: 1729980092897
+entry_point_name: ''
+experiment_id: '303537251745913987'
+lifecycle_stage: active
+run_id: 309b47d720a64f9f9800cde1fe905f72
+run_name: salty-shrike-20
+run_uuid: 309b47d720a64f9f9800cde1fe905f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729980050079
+status: 3
+tags: []
+user_id: vctrg

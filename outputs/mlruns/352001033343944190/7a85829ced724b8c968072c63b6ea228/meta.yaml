@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/7a85829ced724b8c968072c63b6ea228/artifacts
+end_time: 1729981597702
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: 7a85829ced724b8c968072c63b6ea228
+run_name: funny-sloth-519
+run_uuid: 7a85829ced724b8c968072c63b6ea228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981588858
+status: 3
+tags: []
+user_id: vctrg

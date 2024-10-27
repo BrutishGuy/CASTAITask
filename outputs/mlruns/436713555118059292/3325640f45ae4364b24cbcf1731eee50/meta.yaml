@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/3325640f45ae4364b24cbcf1731eee50/artifacts
+end_time: 1729982218045
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 3325640f45ae4364b24cbcf1731eee50
+run_name: useful-moth-880
+run_uuid: 3325640f45ae4364b24cbcf1731eee50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982213512
+status: 3
+tags: []
+user_id: vctrg

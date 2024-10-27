@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/d4c5c053b2624cbe90eccfb383379c2d/artifacts
+end_time: 1729951578428
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: d4c5c053b2624cbe90eccfb383379c2d
+run_name: intrigued-boar-681
+run_uuid: d4c5c053b2624cbe90eccfb383379c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729951577354
+status: 4
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/f5e0df734e7c44c595e2cf291a44024b/artifacts
+end_time: 1729981708626
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: f5e0df734e7c44c595e2cf291a44024b
+run_name: entertaining-bee-449
+run_uuid: f5e0df734e7c44c595e2cf291a44024b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981700094
+status: 3
+tags: []
+user_id: vctrg

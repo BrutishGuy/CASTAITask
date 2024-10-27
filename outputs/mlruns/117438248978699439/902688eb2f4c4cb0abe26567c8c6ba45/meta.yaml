@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/902688eb2f4c4cb0abe26567c8c6ba45/artifacts
+end_time: 1729978763292
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: 902688eb2f4c4cb0abe26567c8c6ba45
+run_name: incongruous-ram-193
+run_uuid: 902688eb2f4c4cb0abe26567c8c6ba45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978758362
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/d3fe24c5594942ffa216c4528d8d92ae/artifacts
+end_time: 1729978992748
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: d3fe24c5594942ffa216c4528d8d92ae
+run_name: auspicious-owl-298
+run_uuid: d3fe24c5594942ffa216c4528d8d92ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978987296
+status: 3
+tags: []
+user_id: vctrg

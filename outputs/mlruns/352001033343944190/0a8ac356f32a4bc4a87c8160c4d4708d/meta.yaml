@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/0a8ac356f32a4bc4a87c8160c4d4708d/artifacts
+end_time: 1729981819985
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: 0a8ac356f32a4bc4a87c8160c4d4708d
+run_name: likeable-kit-862
+run_uuid: 0a8ac356f32a4bc4a87c8160c4d4708d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981811363
+status: 3
+tags: []
+user_id: vctrg

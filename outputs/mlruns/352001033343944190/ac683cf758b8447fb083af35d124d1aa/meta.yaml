@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/ac683cf758b8447fb083af35d124d1aa/artifacts
+end_time: 1729981683154
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: ac683cf758b8447fb083af35d124d1aa
+run_name: carefree-kite-668
+run_uuid: ac683cf758b8447fb083af35d124d1aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981674819
+status: 3
+tags: []
+user_id: vctrg

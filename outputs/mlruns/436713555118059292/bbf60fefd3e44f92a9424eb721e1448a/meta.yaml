@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/bbf60fefd3e44f92a9424eb721e1448a/artifacts
+end_time: 1729982785258
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: bbf60fefd3e44f92a9424eb721e1448a
+run_name: delicate-shark-721
+run_uuid: bbf60fefd3e44f92a9424eb721e1448a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982780556
+status: 3
+tags: []
+user_id: vctrg

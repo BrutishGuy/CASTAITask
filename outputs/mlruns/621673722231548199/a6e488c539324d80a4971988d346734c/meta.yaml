@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/a6e488c539324d80a4971988d346734c/artifacts
+end_time: 1729950981261
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: a6e488c539324d80a4971988d346734c
+run_name: abundant-hen-450
+run_uuid: a6e488c539324d80a4971988d346734c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729950980145
+status: 4
+tags: []
+user_id: vctrg

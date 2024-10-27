@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/27d8a162186547f5acff82f425674456/artifacts
+end_time: 1729951530764
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: 27d8a162186547f5acff82f425674456
+run_name: valuable-trout-743
+run_uuid: 27d8a162186547f5acff82f425674456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729951529695
+status: 4
+tags: []
+user_id: vctrg

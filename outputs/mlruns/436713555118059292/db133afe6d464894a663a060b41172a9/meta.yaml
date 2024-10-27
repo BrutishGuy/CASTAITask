@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/db133afe6d464894a663a060b41172a9/artifacts
+end_time: 1729982934985
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: db133afe6d464894a663a060b41172a9
+run_name: fearless-goat-367
+run_uuid: db133afe6d464894a663a060b41172a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982930102
+status: 3
+tags: []
+user_id: vctrg

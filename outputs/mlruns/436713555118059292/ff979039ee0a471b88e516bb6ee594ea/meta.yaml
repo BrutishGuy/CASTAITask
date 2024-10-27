@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/ff979039ee0a471b88e516bb6ee594ea/artifacts
+end_time: 1729982209098
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: ff979039ee0a471b88e516bb6ee594ea
+run_name: crawling-lark-636
+run_uuid: ff979039ee0a471b88e516bb6ee594ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982204831
+status: 3
+tags: []
+user_id: vctrg

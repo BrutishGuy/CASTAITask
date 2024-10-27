@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/595820845619349214/851ee8b1e1d64f3e8ab8036bdc8af628/artifacts
+end_time: 1729983225703
+entry_point_name: ''
+experiment_id: '595820845619349214'
+lifecycle_stage: active
+run_id: 851ee8b1e1d64f3e8ab8036bdc8af628
+run_name: popular-shrew-753
+run_uuid: 851ee8b1e1d64f3e8ab8036bdc8af628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729983204386
+status: 3
+tags: []
+user_id: vctrg

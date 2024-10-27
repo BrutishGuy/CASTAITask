@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/864e0f39b08f4c0090750f1084bde171/artifacts
+end_time: 1729981897989
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: 864e0f39b08f4c0090750f1084bde171
+run_name: capricious-hawk-726
+run_uuid: 864e0f39b08f4c0090750f1084bde171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981889681
+status: 3
+tags: []
+user_id: vctrg

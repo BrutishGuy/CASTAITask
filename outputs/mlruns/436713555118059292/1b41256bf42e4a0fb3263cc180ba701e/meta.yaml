@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/1b41256bf42e4a0fb3263cc180ba701e/artifacts
+end_time: 1729982939880
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 1b41256bf42e4a0fb3263cc180ba701e
+run_name: thundering-kit-817
+run_uuid: 1b41256bf42e4a0fb3263cc180ba701e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982935000
+status: 3
+tags: []
+user_id: vctrg

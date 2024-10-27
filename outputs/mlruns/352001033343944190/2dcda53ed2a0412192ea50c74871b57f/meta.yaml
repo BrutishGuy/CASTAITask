@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/2dcda53ed2a0412192ea50c74871b57f/artifacts
+end_time: 1729981588847
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: 2dcda53ed2a0412192ea50c74871b57f
+run_name: kindly-calf-298
+run_uuid: 2dcda53ed2a0412192ea50c74871b57f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981580173
+status: 3
+tags: []
+user_id: vctrg

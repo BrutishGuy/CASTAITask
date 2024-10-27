@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/ff4c10fc246246aab4728086014f3b0b/artifacts
+end_time: 1729981999564
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: ff4c10fc246246aab4728086014f3b0b
+run_name: ambitious-fox-898
+run_uuid: ff4c10fc246246aab4728086014f3b0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981990179
+status: 3
+tags: []
+user_id: vctrg

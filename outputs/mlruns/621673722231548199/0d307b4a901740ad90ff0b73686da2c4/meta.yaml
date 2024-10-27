@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/0d307b4a901740ad90ff0b73686da2c4/artifacts
+end_time: 1729954597945
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: 0d307b4a901740ad90ff0b73686da2c4
+run_name: unruly-hare-978
+run_uuid: 0d307b4a901740ad90ff0b73686da2c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729954595159
+status: 4
+tags: []
+user_id: vctrg

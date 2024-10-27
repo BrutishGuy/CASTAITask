@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/620769d73b6b48e6a8f3a97afbd84901/artifacts
+end_time: 1729981932192
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: 620769d73b6b48e6a8f3a97afbd84901
+run_name: abundant-flea-89
+run_uuid: 620769d73b6b48e6a8f3a97afbd84901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981923415
+status: 3
+tags: []
+user_id: vctrg

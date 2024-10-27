@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/32adc62821a642d9a886b5d522dcef53/artifacts
+end_time: 1729982322518
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 32adc62821a642d9a886b5d522dcef53
+run_name: dapper-fawn-47
+run_uuid: 32adc62821a642d9a886b5d522dcef53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982318253
+status: 3
+tags: []
+user_id: vctrg

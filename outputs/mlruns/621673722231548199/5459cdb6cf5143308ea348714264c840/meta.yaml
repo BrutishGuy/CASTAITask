@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/5459cdb6cf5143308ea348714264c840/artifacts
+end_time: 1729956119209
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: 5459cdb6cf5143308ea348714264c840
+run_name: rogue-wasp-271
+run_uuid: 5459cdb6cf5143308ea348714264c840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729955019778
+status: 3
+tags: []
+user_id: vctrg

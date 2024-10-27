@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/7865d039ba604adf9eb3a25cffa6db09/artifacts
+end_time: 1729953307342
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: 7865d039ba604adf9eb3a25cffa6db09
+run_name: vaunted-cod-755
+run_uuid: 7865d039ba604adf9eb3a25cffa6db09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729953230358
+status: 4
+tags: []
+user_id: vctrg

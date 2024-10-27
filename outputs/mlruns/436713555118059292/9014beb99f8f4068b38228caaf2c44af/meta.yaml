@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/9014beb99f8f4068b38228caaf2c44af/artifacts
+end_time: 1729982269928
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 9014beb99f8f4068b38228caaf2c44af
+run_name: welcoming-bass-114
+run_uuid: 9014beb99f8f4068b38228caaf2c44af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982265587
+status: 3
+tags: []
+user_id: vctrg

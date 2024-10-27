@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/132b921658614afa8c5fc601b3f9a14c/artifacts
+end_time: 1729981691732
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: 132b921658614afa8c5fc601b3f9a14c
+run_name: dashing-bug-143
+run_uuid: 132b921658614afa8c5fc601b3f9a14c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981683164
+status: 3
+tags: []
+user_id: vctrg

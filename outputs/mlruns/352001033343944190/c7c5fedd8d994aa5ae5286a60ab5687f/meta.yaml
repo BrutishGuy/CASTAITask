@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/c7c5fedd8d994aa5ae5286a60ab5687f/artifacts
+end_time: 1729981666687
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: c7c5fedd8d994aa5ae5286a60ab5687f
+run_name: grandiose-shrew-356
+run_uuid: c7c5fedd8d994aa5ae5286a60ab5687f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981658317
+status: 3
+tags: []
+user_id: vctrg

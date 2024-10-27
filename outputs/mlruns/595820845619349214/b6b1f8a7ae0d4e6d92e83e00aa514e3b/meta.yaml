@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/595820845619349214/b6b1f8a7ae0d4e6d92e83e00aa514e3b/artifacts
+end_time: 1729983557659
+entry_point_name: ''
+experiment_id: '595820845619349214'
+lifecycle_stage: active
+run_id: b6b1f8a7ae0d4e6d92e83e00aa514e3b
+run_name: masked-robin-588
+run_uuid: b6b1f8a7ae0d4e6d92e83e00aa514e3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729983519229
+status: 3
+tags: []
+user_id: vctrg

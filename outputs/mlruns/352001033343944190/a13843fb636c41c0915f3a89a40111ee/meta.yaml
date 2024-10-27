@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/a13843fb636c41c0915f3a89a40111ee/artifacts
+end_time: 1729981811351
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: a13843fb636c41c0915f3a89a40111ee
+run_name: able-squid-373
+run_uuid: a13843fb636c41c0915f3a89a40111ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981802768
+status: 3
+tags: []
+user_id: vctrg

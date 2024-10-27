@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/4bd5f9b7f1aa4d8ebb15f1965dcec4b1/artifacts
+end_time: 1729982231007
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 4bd5f9b7f1aa4d8ebb15f1965dcec4b1
+run_name: chill-asp-711
+run_uuid: 4bd5f9b7f1aa4d8ebb15f1965dcec4b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982226673
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/24c2a2d0806149cbb33590b44da90649/artifacts
+end_time: 1729981606881
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: 24c2a2d0806149cbb33590b44da90649
+run_name: kindly-mouse-968
+run_uuid: 24c2a2d0806149cbb33590b44da90649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981597713
+status: 3
+tags: []
+user_id: vctrg

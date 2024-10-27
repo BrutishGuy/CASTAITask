@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/248da2e3e37a4fbb816a3febd5f3a030/artifacts
+end_time: 1729982248109
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 248da2e3e37a4fbb816a3febd5f3a030
+run_name: judicious-fox-451
+run_uuid: 248da2e3e37a4fbb816a3febd5f3a030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982243547
+status: 3
+tags: []
+user_id: vctrg

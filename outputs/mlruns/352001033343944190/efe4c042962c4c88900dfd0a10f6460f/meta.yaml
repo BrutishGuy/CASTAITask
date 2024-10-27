@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/efe4c042962c4c88900dfd0a10f6460f/artifacts
+end_time: 1729981960907
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: efe4c042962c4c88900dfd0a10f6460f
+run_name: redolent-deer-811
+run_uuid: efe4c042962c4c88900dfd0a10f6460f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981951493
+status: 3
+tags: []
+user_id: vctrg

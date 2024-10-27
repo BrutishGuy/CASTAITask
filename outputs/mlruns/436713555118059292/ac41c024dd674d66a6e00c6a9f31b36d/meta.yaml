@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/ac41c024dd674d66a6e00c6a9f31b36d/artifacts
+end_time: 1729982200406
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: ac41c024dd674d66a6e00c6a9f31b36d
+run_name: worried-toad-367
+run_uuid: ac41c024dd674d66a6e00c6a9f31b36d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982195950
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/303537251745913987/70a746f030bb460cb5adbf5f58cb7442/artifacts
+end_time: 1729981244222
+entry_point_name: ''
+experiment_id: '303537251745913987'
+lifecycle_stage: active
+run_id: 70a746f030bb460cb5adbf5f58cb7442
+run_name: valuable-fawn-621
+run_uuid: 70a746f030bb460cb5adbf5f58cb7442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981100540
+status: 3
+tags: []
+user_id: vctrg

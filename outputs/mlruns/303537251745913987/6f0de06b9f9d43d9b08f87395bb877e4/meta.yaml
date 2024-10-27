@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/303537251745913987/6f0de06b9f9d43d9b08f87395bb877e4/artifacts
+end_time: 1729980050060
+entry_point_name: ''
+experiment_id: '303537251745913987'
+lifecycle_stage: active
+run_id: 6f0de06b9f9d43d9b08f87395bb877e4
+run_name: fortunate-toad-66
+run_uuid: 6f0de06b9f9d43d9b08f87395bb877e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729980024769
+status: 3
+tags: []
+user_id: vctrg

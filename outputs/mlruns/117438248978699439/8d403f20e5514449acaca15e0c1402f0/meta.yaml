@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/8d403f20e5514449acaca15e0c1402f0/artifacts
+end_time: 1729978923091
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: 8d403f20e5514449acaca15e0c1402f0
+run_name: wistful-ram-779
+run_uuid: 8d403f20e5514449acaca15e0c1402f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978917929
+status: 3
+tags: []
+user_id: vctrg

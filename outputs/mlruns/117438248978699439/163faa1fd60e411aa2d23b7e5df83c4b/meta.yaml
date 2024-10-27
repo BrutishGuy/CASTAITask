@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/163faa1fd60e411aa2d23b7e5df83c4b/artifacts
+end_time: 1729978819325
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: 163faa1fd60e411aa2d23b7e5df83c4b
+run_name: peaceful-loon-458
+run_uuid: 163faa1fd60e411aa2d23b7e5df83c4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978814407
+status: 3
+tags: []
+user_id: vctrg

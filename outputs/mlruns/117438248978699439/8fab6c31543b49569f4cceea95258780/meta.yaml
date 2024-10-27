@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/8fab6c31543b49569f4cceea95258780/artifacts
+end_time: 1729978883998
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: 8fab6c31543b49569f4cceea95258780
+run_name: sneaky-wasp-270
+run_uuid: 8fab6c31543b49569f4cceea95258780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978878683
+status: 3
+tags: []
+user_id: vctrg

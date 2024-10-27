@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/0ccf635681374362b16a8dd1a549cb10/artifacts
+end_time: 1729982880031
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 0ccf635681374362b16a8dd1a549cb10
+run_name: nimble-calf-562
+run_uuid: 0ccf635681374362b16a8dd1a549cb10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982875637
+status: 3
+tags: []
+user_id: vctrg

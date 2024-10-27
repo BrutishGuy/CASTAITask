@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/defc189e57a94a0e88e28ee5293c2856/artifacts
+end_time: 1729981906700
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: defc189e57a94a0e88e28ee5293c2856
+run_name: omniscient-moose-149
+run_uuid: defc189e57a94a0e88e28ee5293c2856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981898001
+status: 3
+tags: []
+user_id: vctrg

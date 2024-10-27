@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/595820845619349214/310255e14b454973a4afb8bbb7673d18/artifacts
+end_time: 1729983140330
+entry_point_name: ''
+experiment_id: '595820845619349214'
+lifecycle_stage: active
+run_id: 310255e14b454973a4afb8bbb7673d18
+run_name: gregarious-wolf-53
+run_uuid: 310255e14b454973a4afb8bbb7673d18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729983124436
+status: 3
+tags: []
+user_id: vctrg

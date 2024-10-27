@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/ae61ca2457f24735b4f1e921982ddcd8/artifacts
+end_time: 1729982278796
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: ae61ca2457f24735b4f1e921982ddcd8
+run_name: bittersweet-fly-596
+run_uuid: ae61ca2457f24735b4f1e921982ddcd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982274237
+status: 3
+tags: []
+user_id: vctrg

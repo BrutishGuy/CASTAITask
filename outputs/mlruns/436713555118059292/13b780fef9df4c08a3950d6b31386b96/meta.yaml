@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/13b780fef9df4c08a3950d6b31386b96/artifacts
+end_time: 1729982191662
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 13b780fef9df4c08a3950d6b31386b96
+run_name: orderly-seal-334
+run_uuid: 13b780fef9df4c08a3950d6b31386b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982187482
+status: 3
+tags: []
+user_id: vctrg
