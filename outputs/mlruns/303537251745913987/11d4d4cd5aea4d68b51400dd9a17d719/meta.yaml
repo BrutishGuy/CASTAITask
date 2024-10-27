@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/303537251745913987/11d4d4cd5aea4d68b51400dd9a17d719/artifacts
+end_time: 1729979927841
+entry_point_name: ''
+experiment_id: '303537251745913987'
+lifecycle_stage: active
+run_id: 11d4d4cd5aea4d68b51400dd9a17d719
+run_name: clean-snake-204
+run_uuid: 11d4d4cd5aea4d68b51400dd9a17d719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729979909359
+status: 3
+tags: []
+user_id: vctrg

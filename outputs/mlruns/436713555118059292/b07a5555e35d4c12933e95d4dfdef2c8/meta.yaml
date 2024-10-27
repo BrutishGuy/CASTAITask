@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/b07a5555e35d4c12933e95d4dfdef2c8/artifacts
+end_time: 1729982326815
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: b07a5555e35d4c12933e95d4dfdef2c8
+run_name: skittish-quail-933
+run_uuid: b07a5555e35d4c12933e95d4dfdef2c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982322533
+status: 3
+tags: []
+user_id: vctrg

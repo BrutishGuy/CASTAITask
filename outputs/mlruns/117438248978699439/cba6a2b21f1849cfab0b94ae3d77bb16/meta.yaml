@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/cba6a2b21f1849cfab0b94ae3d77bb16/artifacts
+end_time: 1729978833961
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: cba6a2b21f1849cfab0b94ae3d77bb16
+run_name: righteous-moth-33
+run_uuid: cba6a2b21f1849cfab0b94ae3d77bb16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978829039
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/09aafb63a0164c75bfcbd62ad6ed7652/artifacts
+end_time: 1729982265573
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 09aafb63a0164c75bfcbd62ad6ed7652
+run_name: monumental-rook-293
+run_uuid: 09aafb63a0164c75bfcbd62ad6ed7652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982261137
+status: 3
+tags: []
+user_id: vctrg

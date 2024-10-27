@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/487d495bb0b643e7a2695b8954bcb829/artifacts
+end_time: 1729982129307
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 487d495bb0b643e7a2695b8954bcb829
+run_name: resilient-sponge-959
+run_uuid: 487d495bb0b643e7a2695b8954bcb829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982124828
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/303537251745913987/989ebb6bac6f4dd8b692d72a7f0f8aae/artifacts
+end_time: 1729979605034
+entry_point_name: ''
+experiment_id: '303537251745913987'
+lifecycle_stage: active
+run_id: 989ebb6bac6f4dd8b692d72a7f0f8aae
+run_name: marvelous-perch-308
+run_uuid: 989ebb6bac6f4dd8b692d72a7f0f8aae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729979562083
+status: 3
+tags: []
+user_id: vctrg

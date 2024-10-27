@@ -1,0 +1,6 @@
+artifact_location: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199
+creation_time: 1729903997181
+experiment_id: '621673722231548199'
+last_update_time: 1729903997181
+lifecycle_stage: active
+name: transformer_classifier_hp_opt_no_transforms_no_pca_all_features

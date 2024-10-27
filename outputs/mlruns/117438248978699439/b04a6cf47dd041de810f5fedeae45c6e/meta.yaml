@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/b04a6cf47dd041de810f5fedeae45c6e/artifacts
+end_time: 1729978737377
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: b04a6cf47dd041de810f5fedeae45c6e
+run_name: monumental-cod-389
+run_uuid: b04a6cf47dd041de810f5fedeae45c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978737285
+status: 4
+tags: []
+user_id: vctrg

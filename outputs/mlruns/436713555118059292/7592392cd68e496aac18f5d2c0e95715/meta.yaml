@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/7592392cd68e496aac18f5d2c0e95715/artifacts
+end_time: 1729982195938
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 7592392cd68e496aac18f5d2c0e95715
+run_name: nebulous-mouse-945
+run_uuid: 7592392cd68e496aac18f5d2c0e95715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982191674
+status: 3
+tags: []
+user_id: vctrg

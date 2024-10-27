@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/63d33c8aec5647feb7547aaf55fc686a/artifacts
+end_time: 1729957972530
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: 63d33c8aec5647feb7547aaf55fc686a
+run_name: aged-shad-985
+run_uuid: 63d33c8aec5647feb7547aaf55fc686a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729957327173
+status: 3
+tags: []
+user_id: vctrg

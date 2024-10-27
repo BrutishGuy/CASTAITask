@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/ca8b4c8ed52645a1a1aae4dc103e0752/artifacts
+end_time: 1729982753765
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: ca8b4c8ed52645a1a1aae4dc103e0752
+run_name: peaceful-crow-895
+run_uuid: ca8b4c8ed52645a1a1aae4dc103e0752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982749149
+status: 3
+tags: []
+user_id: vctrg

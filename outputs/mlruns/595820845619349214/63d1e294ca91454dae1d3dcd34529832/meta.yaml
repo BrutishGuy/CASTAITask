@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/595820845619349214/63d1e294ca91454dae1d3dcd34529832/artifacts
+end_time: 1729983204366
+entry_point_name: ''
+experiment_id: '595820845619349214'
+lifecycle_stage: active
+run_id: 63d1e294ca91454dae1d3dcd34529832
+run_name: clumsy-zebra-479
+run_uuid: 63d1e294ca91454dae1d3dcd34529832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729983140351
+status: 3
+tags: []
+user_id: vctrg

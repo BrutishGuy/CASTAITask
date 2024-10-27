@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/746fc5edf846446da354fa19f07daa65/artifacts
+end_time: 1729978893637
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: 746fc5edf846446da354fa19f07daa65
+run_name: bright-fly-269
+run_uuid: 746fc5edf846446da354fa19f07daa65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978888884
+status: 3
+tags: []
+user_id: vctrg

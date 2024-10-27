@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/303537251745913987/8fe78ff976164a6c81c041160fa347fe/artifacts
+end_time: 1729980605975
+entry_point_name: ''
+experiment_id: '303537251745913987'
+lifecycle_stage: active
+run_id: 8fe78ff976164a6c81c041160fa347fe
+run_name: hilarious-snail-519
+run_uuid: 8fe78ff976164a6c81c041160fa347fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729980595003
+status: 3
+tags: []
+user_id: vctrg

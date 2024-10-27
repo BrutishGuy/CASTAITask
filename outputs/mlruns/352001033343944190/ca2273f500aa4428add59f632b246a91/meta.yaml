@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/ca2273f500aa4428add59f632b246a91/artifacts
+end_time: 1729981846086
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: ca2273f500aa4428add59f632b246a91
+run_name: clean-eel-662
+run_uuid: ca2273f500aa4428add59f632b246a91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981837484
+status: 3
+tags: []
+user_id: vctrg

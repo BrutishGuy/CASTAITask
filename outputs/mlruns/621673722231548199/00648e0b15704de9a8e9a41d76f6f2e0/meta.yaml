@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/00648e0b15704de9a8e9a41d76f6f2e0/artifacts
+end_time: 1729972761950
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: 00648e0b15704de9a8e9a41d76f6f2e0
+run_name: learned-skunk-911
+run_uuid: 00648e0b15704de9a8e9a41d76f6f2e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729972444036
+status: 3
+tags: []
+user_id: vctrg

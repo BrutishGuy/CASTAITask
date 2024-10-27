@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/303537251745913987/691c8c789b164f71b7b1fc25297be277/artifacts
+end_time: 1729980973749
+entry_point_name: ''
+experiment_id: '303537251745913987'
+lifecycle_stage: active
+run_id: 691c8c789b164f71b7b1fc25297be277
+run_name: learned-calf-504
+run_uuid: 691c8c789b164f71b7b1fc25297be277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729980830896
+status: 3
+tags: []
+user_id: vctrg

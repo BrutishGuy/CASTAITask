@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/303537251745913987/fe91ba0d493a44cbb59cc40e17ccb996/artifacts
+end_time: 1729979680798
+entry_point_name: ''
+experiment_id: '303537251745913987'
+lifecycle_stage: active
+run_id: fe91ba0d493a44cbb59cc40e17ccb996
+run_name: worried-steed-564
+run_uuid: fe91ba0d493a44cbb59cc40e17ccb996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729979605052
+status: 3
+tags: []
+user_id: vctrg

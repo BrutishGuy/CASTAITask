@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/303537251745913987/45747f97eaa14a5ab1c9200c8c24a387/artifacts
+end_time: 1729979562066
+entry_point_name: ''
+experiment_id: '303537251745913987'
+lifecycle_stage: active
+run_id: 45747f97eaa14a5ab1c9200c8c24a387
+run_name: fearless-swan-804
+run_uuid: 45747f97eaa14a5ab1c9200c8c24a387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729979531524
+status: 3
+tags: []
+user_id: vctrg

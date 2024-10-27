@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/c5987b70e2a34632b41d84651898d604/artifacts
+end_time: 1729950217057
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: c5987b70e2a34632b41d84651898d604
+run_name: gentle-vole-459
+run_uuid: c5987b70e2a34632b41d84651898d604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729950215284
+status: 4
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/501f6ae3cb0f44c7b9f145d5531df5ad/artifacts
+end_time: 1729978786411
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: 501f6ae3cb0f44c7b9f145d5531df5ad
+run_name: wistful-cow-851
+run_uuid: 501f6ae3cb0f44c7b9f145d5531df5ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978781613
+status: 3
+tags: []
+user_id: vctrg

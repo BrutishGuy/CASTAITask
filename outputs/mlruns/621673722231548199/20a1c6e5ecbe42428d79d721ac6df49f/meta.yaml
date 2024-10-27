@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/20a1c6e5ecbe42428d79d721ac6df49f/artifacts
+end_time: 1729952086865
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: 20a1c6e5ecbe42428d79d721ac6df49f
+run_name: blushing-mole-951
+run_uuid: 20a1c6e5ecbe42428d79d721ac6df49f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729952085647
+status: 4
+tags: []
+user_id: vctrg

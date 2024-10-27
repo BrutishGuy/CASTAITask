@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/2b93274c048c4e43ade0e3964501a47d/artifacts
+end_time: 1729904003480
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: 2b93274c048c4e43ade0e3964501a47d
+run_name: powerful-asp-331
+run_uuid: 2b93274c048c4e43ade0e3964501a47d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729903997312
+status: 4
+tags: []
+user_id: vctrg

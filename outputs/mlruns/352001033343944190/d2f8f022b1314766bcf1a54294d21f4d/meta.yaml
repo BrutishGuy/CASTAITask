@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/d2f8f022b1314766bcf1a54294d21f4d/artifacts
+end_time: 1729981571664
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: d2f8f022b1314766bcf1a54294d21f4d
+run_name: delicate-colt-893
+run_uuid: d2f8f022b1314766bcf1a54294d21f4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981563291
+status: 3
+tags: []
+user_id: vctrg

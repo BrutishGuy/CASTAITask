@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/69cede071cf64a4da13c496eb1b63b67/artifacts
+end_time: 1729982213489
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 69cede071cf64a4da13c496eb1b63b67
+run_name: receptive-shrimp-728
+run_uuid: 69cede071cf64a4da13c496eb1b63b67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982209112
+status: 3
+tags: []
+user_id: vctrg

@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/595820845619349214/789f55b3904342faa1487da8b3dcb4e1/artifacts
+end_time: 1729983368902
+entry_point_name: ''
+experiment_id: '595820845619349214'
+lifecycle_stage: active
+run_id: 789f55b3904342faa1487da8b3dcb4e1
+run_name: peaceful-newt-352
+run_uuid: 789f55b3904342faa1487da8b3dcb4e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729983337007
+status: 3
+tags: []
+user_id: vctrg

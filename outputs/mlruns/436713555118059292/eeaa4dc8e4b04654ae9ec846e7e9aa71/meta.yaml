@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/eeaa4dc8e4b04654ae9ec846e7e9aa71/artifacts
+end_time: 1729982892096
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: eeaa4dc8e4b04654ae9ec846e7e9aa71
+run_name: intrigued-cow-805
+run_uuid: eeaa4dc8e4b04654ae9ec846e7e9aa71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982885582
+status: 3
+tags: []
+user_id: vctrg

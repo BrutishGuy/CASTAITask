@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/e5bc91288ae74d9ba5d8824e56bcc4d3/artifacts
+end_time: 1729978982188
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: e5bc91288ae74d9ba5d8824e56bcc4d3
+run_name: thoughtful-croc-225
+run_uuid: e5bc91288ae74d9ba5d8824e56bcc4d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978977635
+status: 3
+tags: []
+user_id: vctrg

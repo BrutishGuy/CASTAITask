@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/08587ece3e5844a7871b7cba76271421/artifacts
+end_time: 1729955019752
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: 08587ece3e5844a7871b7cba76271421
+run_name: whimsical-stag-194
+run_uuid: 08587ece3e5844a7871b7cba76271421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729954607512
+status: 3
+tags: []
+user_id: vctrg

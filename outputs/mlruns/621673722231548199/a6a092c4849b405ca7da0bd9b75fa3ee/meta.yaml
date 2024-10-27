@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/a6a092c4849b405ca7da0bd9b75fa3ee/artifacts
+end_time: 1729952842401
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: a6a092c4849b405ca7da0bd9b75fa3ee
+run_name: nimble-koi-372
+run_uuid: a6a092c4849b405ca7da0bd9b75fa3ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729952764337
+status: 4
+tags: []
+user_id: vctrg

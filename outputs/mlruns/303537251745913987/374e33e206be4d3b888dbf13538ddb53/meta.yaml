@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/303537251745913987/374e33e206be4d3b888dbf13538ddb53/artifacts
+end_time: 1729980830833
+entry_point_name: ''
+experiment_id: '303537251745913987'
+lifecycle_stage: active
+run_id: 374e33e206be4d3b888dbf13538ddb53
+run_name: industrious-bass-968
+run_uuid: 374e33e206be4d3b888dbf13538ddb53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729980693479
+status: 3
+tags: []
+user_id: vctrg

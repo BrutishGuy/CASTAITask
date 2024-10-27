@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/0c0d0682d55f43ac8e9036bf8b0c7a7d/artifacts
+end_time: 1729982304672
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 0c0d0682d55f43ac8e9036bf8b0c7a7d
+run_name: indecisive-conch-950
+run_uuid: 0c0d0682d55f43ac8e9036bf8b0c7a7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982300471
+status: 3
+tags: []
+user_id: vctrg

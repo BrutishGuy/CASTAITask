@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/d384a9e8126d487096bbaef6e3aaff67/artifacts
+end_time: 1729982204813
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: d384a9e8126d487096bbaef6e3aaff67
+run_name: placid-croc-688
+run_uuid: d384a9e8126d487096bbaef6e3aaff67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982200417
+status: 3
+tags: []
+user_id: vctrg

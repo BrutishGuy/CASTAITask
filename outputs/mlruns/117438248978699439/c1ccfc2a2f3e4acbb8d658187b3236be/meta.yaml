@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/c1ccfc2a2f3e4acbb8d658187b3236be/artifacts
+end_time: 1729978772487
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: c1ccfc2a2f3e4acbb8d658187b3236be
+run_name: brawny-crab-804
+run_uuid: c1ccfc2a2f3e4acbb8d658187b3236be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978767960
+status: 3
+tags: []
+user_id: vctrg

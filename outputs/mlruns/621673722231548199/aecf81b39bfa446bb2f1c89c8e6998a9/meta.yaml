@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/aecf81b39bfa446bb2f1c89c8e6998a9/artifacts
+end_time: 1729957153758
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: aecf81b39bfa446bb2f1c89c8e6998a9
+run_name: overjoyed-cod-628
+run_uuid: aecf81b39bfa446bb2f1c89c8e6998a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729956265176
+status: 3
+tags: []
+user_id: vctrg

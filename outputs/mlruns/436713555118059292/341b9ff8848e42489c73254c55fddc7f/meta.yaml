@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/341b9ff8848e42489c73254c55fddc7f/artifacts
+end_time: 1729982762948
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 341b9ff8848e42489c73254c55fddc7f
+run_name: intelligent-kit-11
+run_uuid: 341b9ff8848e42489c73254c55fddc7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982758577
+status: 3
+tags: []
+user_id: vctrg

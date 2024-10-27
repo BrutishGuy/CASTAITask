@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/cfb75372b565402e9025947c85afbc22/artifacts
+end_time: 1729982916259
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: cfb75372b565402e9025947c85afbc22
+run_name: upset-gnat-751
+run_uuid: cfb75372b565402e9025947c85afbc22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982911474
+status: 3
+tags: []
+user_id: vctrg

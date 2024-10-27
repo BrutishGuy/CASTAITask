@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/48722d73778c473ea7493b6de381b99d/artifacts
+end_time: 1729978878669
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: 48722d73778c473ea7493b6de381b99d
+run_name: mysterious-goose-65
+run_uuid: 48722d73778c473ea7493b6de381b99d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978873194
+status: 3
+tags: []
+user_id: vctrg

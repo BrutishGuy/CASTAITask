@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/303537251745913987/46bfb8f22781473090fa2cc6b9e712d7/artifacts
+end_time: 1729981483447
+entry_point_name: ''
+experiment_id: '303537251745913987'
+lifecycle_stage: active
+run_id: 46bfb8f22781473090fa2cc6b9e712d7
+run_name: amusing-fly-721
+run_uuid: 46bfb8f22781473090fa2cc6b9e712d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981387729
+status: 3
+tags: []
+user_id: vctrg

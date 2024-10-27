@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/9e62ff867f824b07a69d82b32f73807a/artifacts
+end_time: 1729978968071
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: 9e62ff867f824b07a69d82b32f73807a
+run_name: bouncy-trout-427
+run_uuid: 9e62ff867f824b07a69d82b32f73807a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978963365
+status: 3
+tags: []
+user_id: vctrg

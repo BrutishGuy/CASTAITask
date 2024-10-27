@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/595820845619349214/2d42bc5cb9bf4f1b8c7794ff8cab45f5/artifacts
+end_time: 1729983481333
+entry_point_name: ''
+experiment_id: '595820845619349214'
+lifecycle_stage: active
+run_id: 2d42bc5cb9bf4f1b8c7794ff8cab45f5
+run_name: rumbling-fish-127
+run_uuid: 2d42bc5cb9bf4f1b8c7794ff8cab45f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729983443301
+status: 3
+tags: []
+user_id: vctrg

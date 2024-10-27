@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/352001033343944190/dba4cb0f55c24d11996e78daa9c061e0/artifacts
+end_time: 1729981616287
+entry_point_name: ''
+experiment_id: '352001033343944190'
+lifecycle_stage: active
+run_id: dba4cb0f55c24d11996e78daa9c061e0
+run_name: resilient-dog-520
+run_uuid: dba4cb0f55c24d11996e78daa9c061e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729981606892
+status: 3
+tags: []
+user_id: vctrg

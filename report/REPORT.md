@@ -29,6 +29,8 @@ What can we infer about this dataset then? Well, in short, this could be a datas
 
 Assuming this 'guess' about the data origins is correct, what we have is potentially a problem with high business impact/value, which can help product teams better predict and plan-ahead for various service interruptions by either reserving more instances, or back-up or execute their workloads more efficiently with this information in mind.
 
+In terms of evaluation metrics - although, these will be discussed in more detail below - we can consider the above inferences about the data as signals to decide which metrics will be more important for the business use-case. Indeed, if we want to make sure we catch any and all interruptions for a customer/for the business at all cost, we may be very interested in achieving a very high recall score (if not near perfect). This is also true if the cost of planning around an unexpected interruption that never comes (false positive, essentially) is low, thereby making a poor precision score less problematic, as a trade-off in the optimisation for high recall. Conversely, if the business requires that predicted interruptions do happen with high certainty, but not that we strictly catch all of them - instead most of them - then we can sacrifice a poorer recall in favour of precision.
+
 ### Assumptions
 
 Some assumptions I have made while working with this dataset are:
@@ -102,7 +104,8 @@ We do notice many clusters of variables within the 300+ raw features we have whi
 
 Multicollinearity is a problem for many classical ML models such as Logistic regression (which even requires as part of its underlying requirements/assumptions that the data not present with multicollinearity) - this will impact the final coefficients and their interpretability down the line.
 
-Finally, you can also see which numerical features are correlated strongly to the target in particular via the below plot, which shows the Pearson's and Spearman's correlation coefficients - the Spearman gives us a slightly more general increasing/decreasing relationship measurement, whereas Pearson's correlation i
+Finally, you can also see which numerical features are correlated strongly to the target in particular via the below plot, which shows the Pearson's and Spearman's correlation coefficients - the Spearman gives us a slightly more general increasing/decreasing relationship measurement, whereas Pearson's correlation is more strictly linear as a measurement of the relationship between variables.
+
 ### PCA Analysis and Insights
 
 Below we see the results of a quick PCA analysis without any prior preprocessing or transformations (as discussed, we might benefit from log/quantile/power transformations). Nevertheless, we do notice some interesting behaviours:
@@ -164,9 +167,7 @@ Our evaluation metrics include ROC AUC, F1 Score, Precision, and Recall. They ea
 - **Precision:** Precision is the ratio of true positives to the sum of true positives and false positives. It’s especially valuable in contexts where false positives are costly, ensuring that positive predictions are more likely to be correct.
 - **Recall:** Recall is the ratio of true positives to the sum of true positives and false negatives. This metric emphasizes minimizing false negatives, which is crucial when it’s important to capture as many positive cases as possible.
 
-Using this combination of metrics allows us to fully understand the model's performance, and to detect risks of using these models in production, depending on the business use-cases. For example, if we have a strong requirement to catch all "Interrupted" cases with high reliability, without much concern for false positivies, we would have a high preference for near-perfect recall, with high tolerance for lower precision scores.
-
-Conversely, if false positives are detrimental to the business's goals, then we will need to focus more on precision, at the risk of not catching some "Interrupted" cases, if we need to trade-off recall. F1 and ROC give us a more balanced view to know the overall performance of the model in the same light of false positives/false negatives
+In terms of evaluation metrics - although, these will be discussed in more detail below - we can consider the above inferences about the data as signals to decide which metrics will be more important for the business use-case. Indeed, if we want to make sure we catch any and all interruptions for a customer/for the business at all cost, we may be very interested in achieving a very high recall score (if not near perfect). This is also true if the cost of planning around an unexpected interruption that never comes (false positive, essentially) is low, thereby making a poor precision score less problematic, as a trade-off in the optimisation for high recall. Conversely, if the business requires that predicted interruptions do happen with high certainty, but not that we strictly catch all of them - instead most of them - then we can sacrifice a poorer recall in favour of precision.
 
 We don't look at confusion matrices because they can be a bit cumbersome to report (e.g. including in the MLflow metrics) and I believe we have what we need with the precision and recall metrics in particular. But, they are invaluable for further diagnoses of weaknesses in the models, and can be looked at further down the line.
 
@@ -234,4 +235,6 @@ In terms of parameters and training, these models are fairly simple. The best pe
 
 Overall, we can also experiment with different loss functions for the hyperparameter optimisation, which currently optimised for ROC AUC, which may give us better results depending on the business use-case requirements for predicting interruptions correctly.
 
+Additionally, if we know the business use-case a bit better, we can optimise for the right metric, e.g. recall, precision, specificity, or some other more concrete metric, and even provide this as a metric to the hyper optimisation procedure, which currently rather relies on ROC AUC instead. If we switch to using the more appropriate metric, it could improve the quality of the model that we arrive at via the hyperparameter search.
 
+In future, time allowing, we can also explore the feature importances and feature dependency plots for our model by using methods such as SHAP (Shapley values) to measure feature contributions to a model's prediction. This helps to diagnose what the model has learnt and helps greatly with model explainability. Here, we've skipped it in the interests of time, and considering the large number of numerical features for which we don't have domain knowledge of, or a data schema for.

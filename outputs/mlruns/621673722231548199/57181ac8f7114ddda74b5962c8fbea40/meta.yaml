@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/621673722231548199/57181ac8f7114ddda74b5962c8fbea40/artifacts
+end_time: 1729952136054
+entry_point_name: ''
+experiment_id: '621673722231548199'
+lifecycle_stage: active
+run_id: 57181ac8f7114ddda74b5962c8fbea40
+run_name: glamorous-shark-675
+run_uuid: 57181ac8f7114ddda74b5962c8fbea40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729952134883
+status: 4
+tags: []
+user_id: vctrg

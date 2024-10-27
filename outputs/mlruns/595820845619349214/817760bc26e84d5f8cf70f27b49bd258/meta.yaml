@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/595820845619349214/817760bc26e84d5f8cf70f27b49bd258/artifacts
+end_time: 1729983391329
+entry_point_name: ''
+experiment_id: '595820845619349214'
+lifecycle_stage: active
+run_id: 817760bc26e84d5f8cf70f27b49bd258
+run_name: beautiful-goose-681
+run_uuid: 817760bc26e84d5f8cf70f27b49bd258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729983368921
+status: 3
+tags: []
+user_id: vctrg

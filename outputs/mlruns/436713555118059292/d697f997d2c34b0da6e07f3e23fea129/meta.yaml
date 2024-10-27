@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/d697f997d2c34b0da6e07f3e23fea129/artifacts
+end_time: 1729982902009
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: d697f997d2c34b0da6e07f3e23fea129
+run_name: abrasive-zebra-570
+run_uuid: d697f997d2c34b0da6e07f3e23fea129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982897049
+status: 3
+tags: []
+user_id: vctrg

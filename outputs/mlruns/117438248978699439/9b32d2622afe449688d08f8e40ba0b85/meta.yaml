@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/117438248978699439/9b32d2622afe449688d08f8e40ba0b85/artifacts
+end_time: 1729978987282
+entry_point_name: ''
+experiment_id: '117438248978699439'
+lifecycle_stage: active
+run_id: 9b32d2622afe449688d08f8e40ba0b85
+run_name: monumental-lark-338
+run_uuid: 9b32d2622afe449688d08f8e40ba0b85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729978982203
+status: 3
+tags: []
+user_id: vctrg

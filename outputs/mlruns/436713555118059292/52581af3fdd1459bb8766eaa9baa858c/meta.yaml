@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/52581af3fdd1459bb8766eaa9baa858c/artifacts
+end_time: 1729982965772
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 52581af3fdd1459bb8766eaa9baa858c
+run_name: masked-bear-826
+run_uuid: 52581af3fdd1459bb8766eaa9baa858c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982960658
+status: 3
+tags: []
+user_id: vctrg

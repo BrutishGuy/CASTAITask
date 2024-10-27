@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/23e100feeaa145debdbf47be4a84ee74/artifacts
+end_time: 1729982960642
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: 23e100feeaa145debdbf47be4a84ee74
+run_name: handsome-croc-600
+run_uuid: 23e100feeaa145debdbf47be4a84ee74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982955482
+status: 3
+tags: []
+user_id: vctrg

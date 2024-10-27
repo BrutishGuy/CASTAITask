@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/vctrg/OneDrive/Documents/Github/CastAITask/src/../outputs/mlruns/436713555118059292/bf2eaf179f2d45659ce324ba1ffd9a62/artifacts
+end_time: 1729982816941
+entry_point_name: ''
+experiment_id: '436713555118059292'
+lifecycle_stage: active
+run_id: bf2eaf179f2d45659ce324ba1ffd9a62
+run_name: blushing-fish-3
+run_uuid: bf2eaf179f2d45659ce324ba1ffd9a62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729982812417
+status: 3
+tags: []
+user_id: vctrg
