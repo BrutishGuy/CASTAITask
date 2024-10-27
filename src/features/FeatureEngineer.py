@@ -38,7 +38,7 @@ class FeatureEngineer(TransformerMixin, BaseEstimator):
     def __init__(self, imputation_strategy: str = 'median', vif_threshold: int = 10, 
                  use_pca: bool = False, n_components: int = 100, use_tsne: bool = False,
                  datetime_col: str = None, use_transform: bool = True, default_transform: str = 'log', 
-                 transform_overrides: dict = None, preprocessor: ColumnTransformer = None):
+                 transform_overrides: dict = None, preprocessor: ColumnTransformer = None, verbose: bool = True):
         self.imputation_strategy = imputation_strategy
         self.vif_threshold = vif_threshold
         self.use_pca = use_pca
@@ -54,9 +54,10 @@ class FeatureEngineer(TransformerMixin, BaseEstimator):
         self.pca = None
         self.tsne = None
         self.preprocessor = None or preprocessor
+        self.verbose = verbose
         
     
-    def _extract_time_features(self, df: pd.DataFrame):
+    def _extract_time_features(self, df: pd.DataFrame) -> pd.DataFrame:
         """
         Extracts time-based features from the datetime column.
         
@@ -80,7 +81,7 @@ class FeatureEngineer(TransformerMixin, BaseEstimator):
         return df
 
     
-    def _fit_transformation(self, X: pd.DataFrame, col: str, transform: str):
+    def _fit_transformation(self, X: pd.DataFrame, col: str, transform: str) -> pd.DataFrame:
         """
         Apply the selected transformation to a specific column.
         
@@ -98,7 +99,8 @@ class FeatureEngineer(TransformerMixin, BaseEstimator):
         X : pd.DataFrame
             Dataframe with the transformed column.
         """
-        print(f"Fitting transform {transform} to {col}")
+        if self.verbose:
+            print(f"Fitting transform {transform} to {col}")
         if transform == 'log':
             X[col] = np.log1p(X[col]) # np.log1p gives us log(1 + x), to avoid log(0) :O
         elif transform == 'quantile':
@@ -111,7 +113,7 @@ class FeatureEngineer(TransformerMixin, BaseEstimator):
             self.transformers[col] = pt
         return X
 
-    def _apply_transformation(self, X: pd.DataFrame, col: str, transform: str):
+    def _apply_transformation(self, X: pd.DataFrame, col: str, transform: str) -> pd.DataFrame:
         """
         Apply the selected transformation to a specific column.
         
@@ -171,15 +173,15 @@ class FeatureEngineer(TransformerMixin, BaseEstimator):
         self.num_imputer = SimpleImputer(strategy=self.imputation_strategy)
         X[numerical_cols] = self.num_imputer.fit_transform(X[numerical_cols])
 
-        # scale the data using standard scaling
-        self.scaler = StandardScaler()
-        self.scaler.fit(X[numerical_cols]) 
-
         # fit transformations to numerical columns
         if self.use_transform:
             for col in numerical_cols:
                 transform = self.transform_overrides.get(col, self.default_transform)
                 X = self._fit_transformation(X, col, transform)
+
+        # scale the data using standard scaling
+        self.scaler = StandardScaler()
+        self.scaler.fit(X[numerical_cols]) 
 
         if self.preprocessor is None:
             # for numerical features: leave in-place
@@ -204,9 +206,9 @@ class FeatureEngineer(TransformerMixin, BaseEstimator):
         if self.use_pca:
             self.pca = PCA(n_components=self.n_components)
             self.pca.fit(X[numerical_cols])
-        else:
+        #else:
             # detect multicollinearity using VIF if PCA is not selected
-            self.drop_features = self._detect_multicollinearity(X[numerical_cols])
+        #self.drop_features = self._detect_multicollinearity(X[numerical_cols])
         
         return self
 
@@ -237,14 +239,19 @@ class FeatureEngineer(TransformerMixin, BaseEstimator):
         numerical_cols = X.select_dtypes(include=['float64', 'float32', 'int64']).columns
         X[numerical_cols] = self.num_imputer.transform(X[numerical_cols])
 
-        # scale the data using standard scaling
-        X[numerical_cols] = self.scaler.transform(X[numerical_cols])
-
         # apply transformations to numerical columns
         if self.use_transform:
             for col in numerical_cols:
                 transform = self.transform_overrides.get(col, self.default_transform)
+                if transform == 'log':
+                    try:
+                        Y = np.log1p(X[col])
+                    except:
+                        raise
                 X = self._apply_transformation(X, col, transform)
+
+        # scale the data using standard scaling
+        X[numerical_cols] = self.scaler.transform(X[numerical_cols])
 
         X = self.preprocessor.transform(X)
         X = pd.DataFrame(X)
@@ -259,8 +266,10 @@ class FeatureEngineer(TransformerMixin, BaseEstimator):
             X_pca = self.pca.transform(X[numerical_cols])
             X = pd.DataFrame(X_pca, columns=[f'PC{i+1}' for i in range(X_pca.shape[1])])
         else:
+            X = pd.DataFrame(X)
+        #else:
             # remove features with high multicollinearity
-            X = X.drop(columns=self.drop_features, errors='ignore')
+        #    X = X.drop(columns=self.drop_features, errors='ignore')
 
         # optionally apply TSNE for dimensionality reduction visualization
         if self.use_tsne:
